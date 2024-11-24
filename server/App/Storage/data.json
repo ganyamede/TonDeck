@@ -1,0 +1,3587 @@
+[
+    {
+        "jettonVolumeStringAll": "9368108.44645753",
+        "jettonLiqStringAll": "722488.1632",
+        "jettonFDVStringAll": "90666435",
+        "jettonSupplyAll": "546636526292638",
+        "jettonVolume": "9.37м",
+        "jettonLiq": "722к",
+        "jettonFDV": "90.7м",
+        "jettonPrice": "0.09066",
+        "jettonH24": "-16.37",
+        "jettonCreated": "2024-11-01T13:23:09Z",
+        "jettonAddress": "EQAGUk1UZNw4etyy2Y3Lacii_u18RUPPaw_s5FLV6yMsatly",
+        "jettonName": "NIKO / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/pEbsKBScRx-hBNV5WEyRUyAxWs8aDzR_84kweWt8CSc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MDY1MjRkNTQ2NGRjMzg3YWRjYjJkOThkY2I2OWM4YTJmZWVkN2M0NTQzY2Y2YjBmZWNlNDUyZDVlYjIzMmM2YS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "546636526292638",
+            "admin": {
+                "address": "0:c03f27bb1c03c0025e165e9cf98ce09d85fd87f61f50924cd143ee8ae6eb22b9",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:06524d5464dc387adcb2d98dcb69c8a2feed7c4543cf6b0fece452d5eb232c6a",
+                "name": "LP Token for NIKO-pTON",
+                "symbol": "NIKO-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/pEbsKBScRx-hBNV5WEyRUyAxWs8aDzR_84kweWt8CSc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MDY1MjRkNTQ2NGRjMzg3YWRjYjJkOThkY2I2OWM4YTJmZWVkN2M0NTQzY2Y2YjBmZWNlNDUyZDVlYjIzMmM2YS5wbmc.webp",
+                "description": "Liquidity pool token for NikolAI and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 6
+        }
+    },
+    {
+        "jettonVolumeStringAll": "13622536.8600196",
+        "jettonLiqStringAll": "44544420.4149",
+        "jettonFDVStringAll": "1228335547",
+        "jettonSupplyAll": "254213139532",
+        "jettonVolume": "13.6м",
+        "jettonLiq": "44.5м",
+        "jettonFDV": "1.23 млрд",
+        "jettonPrice": "0.99866",
+        "jettonH24": "-0.22",
+        "jettonCreated": "2024-04-19T12:43:10Z",
+        "jettonAddress": "EQD8TJ8xEWB1SpnRE4d89YO3jl0W0EiBnNS4IBaHaUmdfizE",
+        "jettonName": "USD₮ / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/PK-_xbTmnmUZfQe8whjTlgWwM5WmykV2W2ESFeobTLc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZmM0YzlmMzExMTYwNzU0YTk5ZDExMzg3N2NmNTgzYjc4ZTVkMTZkMDQ4ODE5Y2Q0YjgyMDE2ODc2OTQ5OWQ3ZS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "254213139532",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:fc4c9f311160754a99d113877cf583b78e5d16d048819cd4b820168769499d7e",
+                "name": "LP Token for USD₮-TON",
+                "symbol": "USD₮-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/PK-_xbTmnmUZfQe8whjTlgWwM5WmykV2W2ESFeobTLc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZmM0YzlmMzExMTYwNzU0YTk5ZDExMzg3N2NmNTgzYjc4ZTVkMTZkMDQ4ODE5Y2Q0YjgyMDE2ODc2OTQ5OWQ3ZS5wbmc.webp",
+                "description": "Liquidity pool token for Tether USD and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 2208
+        }
+    },
+    {
+        "jettonVolumeStringAll": "8195048.9160131",
+        "jettonLiqStringAll": "36450467.215",
+        "jettonFDVStringAll": "1224772634",
+        "jettonSupplyAll": "228204043203753",
+        "jettonVolume": "8.2м",
+        "jettonLiq": "36.5м",
+        "jettonFDV": "1.22 млрд",
+        "jettonPrice": "0.99577",
+        "jettonH24": "-1.05",
+        "jettonCreated": "2024-10-16T00:53:05Z",
+        "jettonAddress": "EQCGScrZe1xbyWqWDvdI6mzP-GAcAWFv6ZXuaJOuSqemxku4",
+        "jettonName": "USD₮ / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/fUl5Mh7RUuzruYNNhg9magyh9cU1Lhk3fS-tzKbSfJM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ODY0OWNhZDk3YjVjNWJjOTZhOTYwZWY3NDhlYTZjY2ZmODYwMWMwMTYxNmZlOTk1ZWU2ODkzYWU0YWE3YTZjNi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "228204043203753",
+            "admin": {
+                "address": "0:92e1411ae546892f33b2c8a89ea90390d8ff4cfbb917a643b91e73f706fdb9d1",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:8649cad97b5c5bc96a960ef748ea6ccff8601c01616fe995ee6893ae4aa7a6c6",
+                "name": "LP Token for USD₮-pTON",
+                "symbol": "USD₮-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/fUl5Mh7RUuzruYNNhg9magyh9cU1Lhk3fS-tzKbSfJM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ODY0OWNhZDk3YjVjNWJjOTZhOTYwZWY3NDhlYTZjY2ZmODYwMWMwMTYxNmZlOTk1ZWU2ODkzYWU0YWE3YTZjNi5wbmc.webp",
+                "description": "Liquidity pool token for Tether USD and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 89
+        }
+    },
+    {
+        "jettonVolumeStringAll": "37760.3675912804",
+        "jettonLiqStringAll": "1336.4608",
+        "jettonFDVStringAll": "144959620",
+        "jettonSupplyAll": "301002368",
+        "jettonVolume": "37.8к",
+        "jettonLiq": "1.34к",
+        "jettonFDV": "145м",
+        "jettonPrice": "0.00000",
+        "jettonH24": "-7.63",
+        "jettonCreated": "2024-09-24T09:43:11Z",
+        "jettonAddress": "EQDKGW0BuD7IthjArmqsFrUCsU3DmGq14jbt5Re1IQJF_kRu",
+        "jettonName": "RBTC / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/ZPSJZT1P1npDCeqGAYlG9jDUHBQJULK2ljX0b9-LPaM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6Y2ExOTZkMDFiODNlYzhiNjE4YzBhZTZhYWMxNmI1MDJiMTRkYzM5ODZhYjVlMjM2ZWRlNTE3YjUyMTAyNDVmZS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "301002368",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:ca196d01b83ec8b618c0ae6aac16b502b14dc3986ab5e236ede517b5210245fe",
+                "name": "LP Token for RBTC-TON",
+                "symbol": "RBTC-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/ZPSJZT1P1npDCeqGAYlG9jDUHBQJULK2ljX0b9-LPaM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6Y2ExOTZkMDFiODNlYzhiNjE4YzBhZTZhYWMxNmI1MDJiMTRkYzM5ODZhYjVlMjM2ZWRlNTE3YjUyMTAyNDVmZS5wbmc.webp",
+                "description": "Liquidity pool token for RabBitcoin and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 23
+        }
+    },
+    {
+        "jettonVolumeStringAll": "368503.815509695",
+        "jettonLiqStringAll": "1906998.2786",
+        "jettonFDVStringAll": "384156144",
+        "jettonSupplyAll": "728201",
+        "jettonVolume": "369к",
+        "jettonLiq": "1.91м",
+        "jettonFDV": "384м",
+        "jettonPrice": "0.00070",
+        "jettonH24": "6.41",
+        "jettonCreated": "2024-08-26T07:53:12Z",
+        "jettonAddress": "EQCcD96ywHvlXBjuf4ihiGyH66QChHesNyoJSQ6WKKqob3Lh",
+        "jettonName": "DOGS / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/5jBFp3_GazJ24i9RPMd-c4z_-26tqC8jLZMx9WpKvhM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6OWMwZmRlYjJjMDdiZTU1YzE4ZWU3Zjg4YTE4ODZjODdlYmE0MDI4NDc3YWMzNzJhMDk0OTBlOTYyOGFhYTg2Zi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "728201",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:9c0fdeb2c07be55c18ee7f88a1886c87eba4028477ac372a09490e9628aaa86f",
+                "name": "LP Token for TON-DOGS",
+                "symbol": "TON-DOGS LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/5jBFp3_GazJ24i9RPMd-c4z_-26tqC8jLZMx9WpKvhM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6OWMwZmRlYjJjMDdiZTU1YzE4ZWU3Zjg4YTE4ODZjODdlYmE0MDI4NDc3YWMzNzJhMDk0OTBlOTYyOGFhYTg2Zi5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and Dogs on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 784
+        }
+    },
+    {
+        "jettonVolumeStringAll": "427534.807534762",
+        "jettonLiqStringAll": "62197.8157",
+        "jettonFDVStringAll": "180347",
+        "jettonSupplyAll": "869687294741675",
+        "jettonVolume": "428к",
+        "jettonLiq": "62.2к",
+        "jettonFDV": "180к",
+        "jettonPrice": "0.00018",
+        "jettonH24": "-18.95",
+        "jettonCreated": "2024-11-19T21:43:07Z",
+        "jettonAddress": "EQAvi8Luu4ln5n1IRBEHxAzpQy2PEQZ2U3t5QRHuPQdT35yn",
+        "jettonName": "LIQUID / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/0GbqQ0PKeLfomG_-0NjzBtUY-PFNVVYEXQDam8nYBi0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MmY4YmMyZWViYjg5NjdlNjdkNDg0NDExMDdjNDBjZTk0MzJkOGYxMTA2NzY1MzdiNzk0MTExZWUzZDA3NTNkZi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "869687294741675",
+            "admin": {
+                "address": "0:e1e681cfbdf4703eed9b3910460a82c43b859064a2f87e4e430f583275e346f6",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:2f8bc2eebb8967e67d48441107c40ce9432d8f110676537b794111ee3d0753df",
+                "name": "LP Token for LIQUID-pTON",
+                "symbol": "LIQUID-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/0GbqQ0PKeLfomG_-0NjzBtUY-PFNVVYEXQDam8nYBi0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MmY4YmMyZWViYjg5NjdlNjdkNDg0NDExMDdjNDBjZTk0MzJkOGYxMTA2NzY1MzdiNzk0MTExZWUzZDA3NTNkZi5wbmc.webp",
+                "description": "Liquidity pool token for LIQUIDATION and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 22
+        }
+    },
+    {
+        "jettonVolumeStringAll": "57556.3061568785",
+        "jettonLiqStringAll": "102422.8695",
+        "jettonFDVStringAll": "400168886",
+        "jettonSupplyAll": "314530170832278",
+        "jettonVolume": "57.6к",
+        "jettonLiq": "102к",
+        "jettonFDV": "400м",
+        "jettonPrice": "0.00400",
+        "jettonH24": "3.59",
+        "jettonCreated": "2024-10-17T09:43:11Z",
+        "jettonAddress": "EQAlNk4VwBlVV-sQr0UYe5souU_xbTof54Fd9qewwN1N7pXL",
+        "jettonName": "HMSTR / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/HvxSlJFEkklJk05b6g9yBSqS1FgB3lfrHe4sfLIu_gI/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MjUzNjRlMTVjMDE5NTU1N2ViMTBhZjQ1MTg3YjliMjhiOTRmZjE2ZDNhMWZlNzgxNWRmNmE3YjBjMGRkNGRlZS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "314530170832278",
+            "admin": {
+                "address": "0:031053133270be82ee6fd94d1963c0186868403a4f537040a0d533aab805b7af",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:25364e15c0195557eb10af45187b9b28b94ff16d3a1fe7815df6a7b0c0dd4dee",
+                "name": "LP Token for HMSTR-pTON",
+                "symbol": "HMSTR-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/HvxSlJFEkklJk05b6g9yBSqS1FgB3lfrHe4sfLIu_gI/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MjUzNjRlMTVjMDE5NTU1N2ViMTBhZjQ1MTg3YjliMjhiOTRmZjE2ZDNhMWZlNzgxNWRmNmE3YjBjMGRkNGRlZS5wbmc.webp",
+                "description": "Liquidity pool token for Hamster Kombat and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 125
+        }
+    },
+    {
+        "jettonVolumeStringAll": "113975.757354274",
+        "jettonLiqStringAll": "219294.658",
+        "jettonFDVStringAll": "147967472",
+        "jettonSupplyAll": "1975384633270708",
+        "jettonVolume": "114к",
+        "jettonLiq": "219к",
+        "jettonFDV": "148м",
+        "jettonPrice": "0.00021",
+        "jettonH24": "2.39",
+        "jettonCreated": "2024-10-24T12:23:08Z",
+        "jettonAddress": "EQCOnm3PGwMP7bTNrVzaRd-3FwY6tOQEHhuAvH5ILZTi94DQ",
+        "jettonName": "X / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/6bxu1Yteu5v6wwtg1Ln1d_bnxYlXW3G_Y0jn2VIBJBc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6OGU5ZTZkY2YxYjAzMGZlZGI0Y2RhZDVjZGE0NWRmYjcxNzA2M2FiNGU0MDQxZTFiODBiYzdlNDgyZDk0ZTJmNy5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "1975384633270708",
+            "admin": {
+                "address": "0:a2ca9a0158d2043e56ab069d3851e3f2123e731f46431f1b9136a275590c7714",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:8e9e6dcf1b030fedb4cdad5cda45dfb717063ab4e4041e1b80bc7e482d94e2f7",
+                "name": "LP Token for X-pTON",
+                "symbol": "X-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/6bxu1Yteu5v6wwtg1Ln1d_bnxYlXW3G_Y0jn2VIBJBc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6OGU5ZTZkY2YxYjAzMGZlZGI0Y2RhZDVjZGE0NWRmYjcxNzA2M2FiNGU0MDQxZTFiODBiYzdlNDgyZDk0ZTJmNy5wbmc.webp",
+                "description": "Liquidity pool token for X Empire and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 272
+        }
+    },
+    {
+        "jettonVolumeStringAll": "243777.132050188",
+        "jettonLiqStringAll": "33160.1552",
+        "jettonFDVStringAll": "139234",
+        "jettonSupplyAll": null,
+        "jettonVolume": "244к",
+        "jettonLiq": "33.2к",
+        "jettonFDV": "139к",
+        "jettonPrice": "0.00013",
+        "jettonH24": "-1.22",
+        "jettonCreated": "2024-11-23T07:13:08Z",
+        "jettonAddress": "EQDmGxuMx0o85twlSL52YDCqsESw2605StpAwyZBnpG590cf",
+        "jettonName": "UWU / TON",
+        "jettonColor": "red",
+        "jettonImage": null,
+        "resultJetton": {
+            "error": "rate limit: limit for tier"
+        }
+    },
+    {
+        "jettonVolumeStringAll": "94737.5003319738",
+        "jettonLiqStringAll": "111315.9345",
+        "jettonFDVStringAll": "1047032406",
+        "jettonSupplyAll": "210117662527846",
+        "jettonVolume": "94.7к",
+        "jettonLiq": "111к",
+        "jettonFDV": "1.05 млрд",
+        "jettonPrice": "0.01021",
+        "jettonH24": "29.47",
+        "jettonCreated": "2024-10-18T17:03:10Z",
+        "jettonAddress": "EQD9BmgQQ2_nzk-9LfxthcoLYC3yBHWK5WqEv_FyMU2riRvE",
+        "jettonName": "NOT / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/DywAwDgijNrjdRiRLvtRBuP4nLlCed6ShAR17pM_v7Q/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZmQwNjY4MTA0MzZmZTdjZTRmYmQyZGZjNmQ4NWNhMGI2MDJkZjIwNDc1OGFlNTZhODRiZmYxNzIzMTRkYWI4OS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "210117662527846",
+            "admin": {
+                "address": "0:f1fbe8d453d3d4b4796d3d8657ef0773222d123d8dca67c9ef3acd2266f40977",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:fd066810436fe7ce4fbd2dfc6d85ca0b602df204758ae56a84bff172314dab89",
+                "name": "LP Token for NOT-pTON",
+                "symbol": "NOT-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/DywAwDgijNrjdRiRLvtRBuP4nLlCed6ShAR17pM_v7Q/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZmQwNjY4MTA0MzZmZTdjZTRmYmQyZGZjNmQ4NWNhMGI2MDJkZjIwNDc1OGFlNTZhODRiZmYxNzIzMTRkYWI4OS5wbmc.webp",
+                "description": "Liquidity pool token for Notcoin and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 78
+        }
+    },
+    {
+        "jettonVolumeStringAll": "101883.977947652",
+        "jettonLiqStringAll": "11581.8144",
+        "jettonFDVStringAll": "17424.76",
+        "jettonSupplyAll": "556428314025436",
+        "jettonVolume": "102к",
+        "jettonLiq": "11.6к",
+        "jettonFDV": "17.4к",
+        "jettonPrice": "0.00001",
+        "jettonH24": "-51.14",
+        "jettonCreated": "2024-11-23T20:03:08Z",
+        "jettonAddress": "EQC0ascbloPxuwf6kgXjKcA9-hL48zfXBqWW4jX0YP4yrGMa",
+        "jettonName": "COMMUNITY / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/NHNF9fy_n_nUi2q0CjO1fYfKVXLAchVk6M__n_H5rjU/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YjQ2YWM3MWI5NjgzZjFiYjA3ZmE5MjA1ZTMyOWMwM2RmYTEyZjhmMzM3ZDcwNmE1OTZlMjM1ZjQ2MGZlMzJhYy5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "556428314025436",
+            "admin": {
+                "address": "0:f1fbe8d453d3d4b4796d3d8657ef0773222d123d8dca67c9ef3acd2266f40977",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:b46ac71b9683f1bb07fa9205e329c03dfa12f8f337d706a596e235f460fe32ac",
+                "name": "LP Token for COMMUNITY-pTON",
+                "symbol": "COMMUNITY-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/NHNF9fy_n_nUi2q0CjO1fYfKVXLAchVk6M__n_H5rjU/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YjQ2YWM3MWI5NjgzZjFiYjA3ZmE5MjA1ZTMyOWMwM2RmYTEyZjhmMzM3ZDcwNmE1OTZlMjM1ZjQ2MGZlMzJhYy5wbmc.webp",
+                "description": "Liquidity pool token for The Community Squad and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 2
+        }
+    },
+    {
+        "jettonVolumeStringAll": "260943.276981278",
+        "jettonLiqStringAll": "55872.475",
+        "jettonFDVStringAll": "346746",
+        "jettonSupplyAll": "545951528627990",
+        "jettonVolume": "261к",
+        "jettonLiq": "55.9к",
+        "jettonFDV": "347к",
+        "jettonPrice": "0.00034",
+        "jettonH24": "13.21",
+        "jettonCreated": "2024-11-21T13:03:09Z",
+        "jettonAddress": "EQDAut7_H9CAk5qxtqMNJNeDfDEjt2ryMvgvTI254jLQ6ocv",
+        "jettonName": "TVM / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/OI3WAi_mYk1mdOqZP0P0s7NPi244eMl__QoLf6dhw1U/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YzBiYWRlZmYxZmQwODA5MzlhYjFiNmEzMGQyNGQ3ODM3YzMxMjNiNzZhZjIzMmY4MmY0YzhkYjllMjMyZDBlYS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545951528627990",
+            "admin": {
+                "address": "0:c03f27bb1c03c0025e165e9cf98ce09d85fd87f61f50924cd143ee8ae6eb22b9",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:c0badeff1fd080939ab1b6a30d24d7837c3123b76af232f82f4c8db9e232d0ea",
+                "name": "LP Token for TVM-pTON",
+                "symbol": "TVM-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/OI3WAi_mYk1mdOqZP0P0s7NPi244eMl__QoLf6dhw1U/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YzBiYWRlZmYxZmQwODA5MzlhYjFiNmEzMGQyNGQ3ODM3YzMxMjNiNzZhZjIzMmY4MmY0YzhkYjllMjMyZDBlYS5wbmc.webp",
+                "description": "Liquidity pool token for TVM and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 2
+        }
+    },
+    {
+        "jettonVolumeStringAll": "136275.177281013",
+        "jettonLiqStringAll": "100343.3598",
+        "jettonFDVStringAll": "1062276",
+        "jettonSupplyAll": "556540332865708",
+        "jettonVolume": "136к",
+        "jettonLiq": "100к",
+        "jettonFDV": "1.06м",
+        "jettonPrice": "0.00106",
+        "jettonH24": "3.5",
+        "jettonCreated": "2024-11-12T17:33:08Z",
+        "jettonAddress": "EQBglwoxyOQY8zdG344T9M5ogoNNql3JSEQivR50R2sHigmk",
+        "jettonName": "DARK / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/XiCaKxeCT-lsUc9MGrVGEd5K_5ETaktFpUuq_lXQEr0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NjA5NzBhMzFjOGU0MThmMzM3NDZkZjhlMTNmNGNlNjg4MjgzNGRhYTVkYzk0ODQ0MjJiZDFlNzQ0NzZiMDc4YS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "556540332865708",
+            "admin": {
+                "address": "0:6280c9db638354d6ec1dbf37abb55e66bffc88ef6f3647e7df5bb5d91563c455",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:60970a31c8e418f33746df8e13f4ce6882834daa5dc9484422bd1e74476b078a",
+                "name": "LP Token for pTON-DARK",
+                "symbol": "pTON-DARK LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/XiCaKxeCT-lsUc9MGrVGEd5K_5ETaktFpUuq_lXQEr0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NjA5NzBhMzFjOGU0MThmMzM3NDZkZjhlMTNmNGNlNjg4MjgzNGRhYTVkYzk0ODQ0MjJiZDFlNzQ0NzZiMDc4YS5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and DARK on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 19
+        }
+    },
+    {
+        "jettonVolumeStringAll": "842425.99179949",
+        "jettonLiqStringAll": "5624529.6796",
+        "jettonFDVStringAll": "1035139558",
+        "jettonSupplyAll": null,
+        "jettonVolume": "842к",
+        "jettonLiq": "5.62м",
+        "jettonFDV": "1.04 млрд",
+        "jettonPrice": "0.01010",
+        "jettonH24": "32.68",
+        "jettonCreated": "2024-05-15T21:33:18Z",
+        "jettonAddress": "EQCaY8Ifl2S6lRBMBJeY35LIuMXPc8JfItWG4tl7lBGrSoR2",
+        "jettonName": "NOT / TON",
+        "jettonColor": "green",
+        "jettonImage": null,
+        "resultJetton": {
+            "error": "rate limit: limit for tier"
+        }
+    },
+    {
+        "jettonVolumeStringAll": "78242.4210343954",
+        "jettonLiqStringAll": "214048.4763",
+        "jettonFDVStringAll": "540211487",
+        "jettonSupplyAll": null,
+        "jettonVolume": "78.2к",
+        "jettonLiq": "214к",
+        "jettonFDV": "540м",
+        "jettonPrice": "0.54021",
+        "jettonH24": "-3.93",
+        "jettonCreated": "2024-09-20T09:53:08Z",
+        "jettonAddress": "EQBJ_X3ysvgOGUo6XB3eUTCvagarGeA3X-QD3lxSqZzQbQ4w",
+        "jettonName": "CATI / TON",
+        "jettonColor": "red",
+        "jettonImage": null,
+        "resultJetton": {
+            "error": "rate limit: limit for tier"
+        }
+    },
+    {
+        "jettonVolumeStringAll": "74471.4199170239",
+        "jettonLiqStringAll": "8363.0476",
+        "jettonFDVStringAll": "9330.21",
+        "jettonSupplyAll": "545763685190211",
+        "jettonVolume": "74.5к",
+        "jettonLiq": "8.36к",
+        "jettonFDV": "9.33к",
+        "jettonPrice": "0.00000",
+        "jettonH24": "-67.58",
+        "jettonCreated": "2024-11-23T16:13:09Z",
+        "jettonAddress": "EQBsNcZ1vLLo3fd_bTCIjOrOuMl0P5HmErMY9-2N4EIL7fqf",
+        "jettonName": "GPX / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/BHWqtOLCMhWt54exJQkXRtB2qfaMcnnCAKwR_n0jOik/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NmMzNWM2NzViY2IyZThkZGY3N2Y2ZDMwODg4Y2VhY2ViOGM5NzQzZjkxZTYxMmIzMThmN2VkOGRlMDQyMGJlZC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545763685190211",
+            "admin": {
+                "address": "0:6280c9db638354d6ec1dbf37abb55e66bffc88ef6f3647e7df5bb5d91563c455",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:6c35c675bcb2e8ddf77f6d30888ceaceb8c9743f91e612b318f7ed8de0420bed",
+                "name": "LP Token for pTON-GPX",
+                "symbol": "pTON-GPX LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/BHWqtOLCMhWt54exJQkXRtB2qfaMcnnCAKwR_n0jOik/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NmMzNWM2NzViY2IyZThkZGY3N2Y2ZDMwODg4Y2VhY2ViOGM5NzQzZjkxZTYxMmIzMThmN2VkOGRlMDQyMGJlZC5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and Golden Pixel on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "60121.4946676823",
+        "jettonLiqStringAll": "19604.3713",
+        "jettonFDVStringAll": "52225.28",
+        "jettonSupplyAll": "545763685170972",
+        "jettonVolume": "60.1к",
+        "jettonLiq": "19.6к",
+        "jettonFDV": "52.2к",
+        "jettonPrice": "0.00005",
+        "jettonH24": "180.72",
+        "jettonCreated": "2024-11-24T14:03:08Z",
+        "jettonAddress": "EQBfwNUSVE17FSWADRW4cP-AMmsDdNloeqYoQJn9FLbi8hWk",
+        "jettonName": "GECKO / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/F6OX_KH1LMz3zKBeCBIpaGfNwGonpFtUcm8L7k_Q1GE/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NWZjMGQ1MTI1NDRkN2IxNTI1ODAwZDE1Yjg3MGZmODAzMjZiMDM3NGQ5Njg3YWE2Mjg0MDk5ZmQxNGI2ZTJmMi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545763685170972",
+            "admin": {
+                "address": "0:f1fbe8d453d3d4b4796d3d8657ef0773222d123d8dca67c9ef3acd2266f40977",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:5fc0d512544d7b1525800d15b870ff80326b0374d9687aa6284099fd14b6e2f2",
+                "name": "LP Token for GECKO-pTON",
+                "symbol": "GECKO-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/F6OX_KH1LMz3zKBeCBIpaGfNwGonpFtUcm8L7k_Q1GE/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NWZjMGQ1MTI1NDRkN2IxNTI1ODAwZDE1Yjg3MGZmODAzMjZiMDM3NGQ5Njg3YWE2Mjg0MDk5ZmQxNGI2ZTJmMi5wbmc.webp",
+                "description": "Liquidity pool token for Gecko In Hoodie and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "2323.7022347777",
+        "jettonLiqStringAll": "5288.7192",
+        "jettonFDVStringAll": "1230879208",
+        "jettonSupplyAll": "32632995167",
+        "jettonVolume": "2.32к",
+        "jettonLiq": "5.29к",
+        "jettonFDV": "1.23 млрд",
+        "jettonPrice": "1.00073",
+        "jettonH24": "-0.52",
+        "jettonCreated": "2024-10-01T10:23:18Z",
+        "jettonAddress": "EQBOdxSlGhjxjVYVwi6blHxfS1tWsOXesMrA1npnuiWeOKgI",
+        "jettonName": "USD₮ / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/tGzZzcKhygdgpv1WaSPQEKiTrdbODtRlWLzYRK--_LI/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NGU3NzE0YTUxYTE4ZjE4ZDU2MTVjMjJlOWI5NDdjNWY0YjViNTZiMGU1ZGViMGNhYzBkNjdhNjdiYTI1OWUzOC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "32632995167",
+            "admin": {
+                "address": "0:429752403644e932927d37795992d3cca69d9bb517b6bd5c07a27d256bc89b46",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:4e7714a51a18f18d5615c22e9b947c5f4b5b56b0e5deb0cac0d67a67ba259e38",
+                "name": "LP Token for USD₮-pTON",
+                "symbol": "USD₮-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/tGzZzcKhygdgpv1WaSPQEKiTrdbODtRlWLzYRK--_LI/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NGU3NzE0YTUxYTE4ZjE4ZDU2MTVjMjJlOWI5NDdjNWY0YjViNTZiMGU1ZGViMGNhYzBkNjdhNjdiYTI1OWUzOC5wbmc.webp",
+                "description": "Liquidity pool token for Tether USD and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 6
+        }
+    },
+    {
+        "jettonVolumeStringAll": "637997.748011792",
+        "jettonLiqStringAll": "994922.8304",
+        "jettonFDVStringAll": "30525965",
+        "jettonSupplyAll": "181786218252",
+        "jettonVolume": "638к",
+        "jettonLiq": "995к",
+        "jettonFDV": "30.5м",
+        "jettonPrice": "0.30525",
+        "jettonH24": "-4.23",
+        "jettonCreated": "2024-01-09T13:13:01Z",
+        "jettonAddress": "EQBCwe_IObXA4Mt3RbcHil2s4-v4YQS3wUDt1-DvZOceeMGO",
+        "jettonName": "REDO / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/nsV8OzppTZccMm9ewmEm9N3xqgfEp1NQGzBqonlZyKc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NDJjMWVmYzgzOWI1YzBlMGNiNzc0NWI3MDc4YTVkYWNlM2ViZjg2MTA0YjdjMTQwZWRkN2UwZWY2NGU3MWU3OC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "181786218252",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:42c1efc839b5c0e0cb7745b7078a5dace3ebf86104b7c140edd7e0ef64e71e78",
+                "name": "LP Token for REDO-TON",
+                "symbol": "REDO-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/nsV8OzppTZccMm9ewmEm9N3xqgfEp1NQGzBqonlZyKc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NDJjMWVmYzgzOWI1YzBlMGNiNzc0NWI3MDc4YTVkYWNlM2ViZjg2MTA0YjdjMTQwZWRkN2UwZWY2NGU3MWU3OC5wbmc.webp",
+                "description": "Liquidity pool token for Resistance Dog and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 313
+        }
+    },
+    {
+        "jettonVolumeStringAll": "29873.8823279206",
+        "jettonLiqStringAll": "5973.8021",
+        "jettonFDVStringAll": "28686.14",
+        "jettonSupplyAll": "2236067977499",
+        "jettonVolume": "29.9к",
+        "jettonLiq": "5.97к",
+        "jettonFDV": "28.7к",
+        "jettonPrice": "0.28686",
+        "jettonH24": "876.24",
+        "jettonCreated": "2024-11-23T09:03:11Z",
+        "jettonAddress": "EQCjFcVODUx44s1E9CYzEor4k0fiH610Rszv49vBkBYzCv9r",
+        "jettonName": "GO / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/nNE1Jcf_E6lyKIksmSYMSK7P8SEJxAvp4h8K5k4uf5Q/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YTMxNWM1NGUwZDRjNzhlMmNkNDRmNDI2MzMxMjhhZjg5MzQ3ZTIxZmFkNzQ0NmNjZWZlM2RiYzE5MDE2MzMwYS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "2236067977499",
+            "admin": {
+                "address": "0:a2ca9a0158d2043e56ab069d3851e3f2123e731f46431f1b9136a275590c7714",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:a315c54e0d4c78e2cd44f42633128af89347e21fad7446ccefe3dbc19016330a",
+                "name": "LP Token for GO-pTON",
+                "symbol": "GO-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/nNE1Jcf_E6lyKIksmSYMSK7P8SEJxAvp4h8K5k4uf5Q/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YTMxNWM1NGUwZDRjNzhlMmNkNDRmNDI2MzMxMjhhZjg5MzQ3ZTIxZmFkNzQ0NmNjZWZlM2RiYzE5MDE2MzMwYS5wbmc.webp",
+                "description": "Liquidity pool token for Frens Go and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 2
+        }
+    },
+    {
+        "jettonVolumeStringAll": "53096.2840262548",
+        "jettonLiqStringAll": "19937.1432",
+        "jettonFDVStringAll": "52169.17",
+        "jettonSupplyAll": null,
+        "jettonVolume": "53.1к",
+        "jettonLiq": "19.9к",
+        "jettonFDV": "52.2к",
+        "jettonPrice": "0.00005",
+        "jettonH24": "682.57",
+        "jettonCreated": "2024-11-22T13:23:08Z",
+        "jettonAddress": "EQA8MzXHfmGid8_K65boEt_sXVyEbPYPwaFe4PwW2R2sQKbC",
+        "jettonName": "SW / TON",
+        "jettonColor": "green",
+        "jettonImage": null,
+        "resultJetton": {
+            "error": "rate limit: limit for tier"
+        }
+    },
+    {
+        "jettonVolumeStringAll": "41400.9974001981",
+        "jettonLiqStringAll": "238184.7362",
+        "jettonFDVStringAll": "744903",
+        "jettonSupplyAll": "239799187633",
+        "jettonVolume": "41.4к",
+        "jettonLiq": "238к",
+        "jettonFDV": "745к",
+        "jettonPrice": "0.03754",
+        "jettonH24": "-6.51",
+        "jettonCreated": "2024-04-18T12:13:07Z",
+        "jettonAddress": "EQAI2oFhkFupg6tHRpKwxbVNQbHwuD7HlSCkHD6vi2V--8_0",
+        "jettonName": "WALL / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/dJNvlbpI75jcOgOZh20AxdS_rtD36XyymiEQhXo-vFc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MDhkYTgxNjE5MDViYTk4M2FiNDc0NjkyYjBjNWI1NGQ0MWIxZjBiODNlYzc5NTIwYTQxYzNlYWY4YjY1N2VmYi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "239799187633",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:08da8161905ba983ab474692b0c5b54d41b1f0b83ec79520a41c3eaf8b657efb",
+                "name": "LP Token for WALL-TON",
+                "symbol": "WALL-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/dJNvlbpI75jcOgOZh20AxdS_rtD36XyymiEQhXo-vFc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MDhkYTgxNjE5MDViYTk4M2FiNDc0NjkyYjBjNWI1NGQ0MWIxZjBiODNlYzc5NTIwYTQxYzNlYWY4YjY1N2VmYi5wbmc.webp",
+                "description": "Liquidity pool token for Du Rove’s Wall and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 152
+        }
+    },
+    {
+        "jettonVolumeStringAll": "56092.7257030238",
+        "jettonLiqStringAll": "51917.3289",
+        "jettonFDVStringAll": "201259",
+        "jettonSupplyAll": "627453108208216",
+        "jettonVolume": "56.1к",
+        "jettonLiq": "51.9к",
+        "jettonFDV": "201к",
+        "jettonPrice": "0.00020",
+        "jettonH24": "-10.07",
+        "jettonCreated": "2024-10-27T19:33:08Z",
+        "jettonAddress": "EQCn6RDAuDIPXiKZXjuwbLBu-wtoopo8DuiZ1AaL_8QNJhS7",
+        "jettonName": "BATYA / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/-U_Z2ms0Dvxq4mhlS9ON9Tg2nMEANiOl-Z9ocPq_4Uk/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YTdlOTEwYzBiODMyMGY1ZTIyOTk1ZTNiYjA2Y2IwNmVmYjBiNjhhMjlhM2MwZWU4OTlkNDA2OGJmZmM0MGQyNi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "627453108208216",
+            "admin": {
+                "address": "0:6280c9db638354d6ec1dbf37abb55e66bffc88ef6f3647e7df5bb5d91563c455",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:a7e910c0b8320f5e22995e3bb06cb06efb0b68a29a3c0ee899d4068bffc40d26",
+                "name": "LP Token for pTON-BATYA",
+                "symbol": "pTON-BATYA LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/-U_Z2ms0Dvxq4mhlS9ON9Tg2nMEANiOl-Z9ocPq_4Uk/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YTdlOTEwYzBiODMyMGY1ZTIyOTk1ZTNiYjA2Y2IwNmVmYjBiNjhhMjlhM2MwZWU4OTlkNDA2OGJmZmM0MGQyNi5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and HAMSTERBATYA on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 84
+        }
+    },
+    {
+        "jettonVolumeStringAll": "41896.930442168",
+        "jettonLiqStringAll": "32738.5818",
+        "jettonFDVStringAll": "123723",
+        "jettonSupplyAll": "552908207578858",
+        "jettonVolume": "41.9к",
+        "jettonLiq": "32.7к",
+        "jettonFDV": "124к",
+        "jettonPrice": "0.00012",
+        "jettonH24": "-26.45",
+        "jettonCreated": "2024-11-18T17:13:09Z",
+        "jettonAddress": "EQCtllTfad3sfEaBd4LQUP5oXGFO-JwDdauapbouNkKVBkJv",
+        "jettonName": "DRAGO / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/WjoNWG2t50I9QZqTejQ-ouLO8WMlQzfISVdi6_drAtI/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YWQ5NjU0ZGY2OWRkZWM3YzQ2ODE3NzgyZDA1MGZlNjg1YzYxNGVmODljMDM3NWFiOWFhNWJhMmUzNjQyOTUwNi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "552908207578858",
+            "admin": {
+                "address": "0:22bf722ec5803a64612e9ce819493b8c0736e98f045b5b0d3df96b04fa2a8a28",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:ad9654df69ddec7c46817782d050fe685c614ef89c0375ab9aa5ba2e36429506",
+                "name": "LP Token for pTON-DRAGO",
+                "symbol": "pTON-DRAGO LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/WjoNWG2t50I9QZqTejQ-ouLO8WMlQzfISVdi6_drAtI/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YWQ5NjU0ZGY2OWRkZWM3YzQ2ODE3NzgyZDA1MGZlNjg1YzYxNGVmODljMDM3NWFiOWFhNWJhMmUzNjQyOTUwNi5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and 🔴🟢Triggered DRAGO on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 4
+        }
+    },
+    {
+        "jettonVolumeStringAll": "97390.9365425947",
+        "jettonLiqStringAll": "113149.0184",
+        "jettonFDVStringAll": "6834902",
+        "jettonSupplyAll": "239997380804007",
+        "jettonVolume": "97.4к",
+        "jettonLiq": "113к",
+        "jettonFDV": "6.83м",
+        "jettonPrice": "0.00854",
+        "jettonH24": "25.16",
+        "jettonCreated": "2024-11-07T11:43:06Z",
+        "jettonAddress": "EQAn8o4jTY8oMfSUmINX-HuStbD4dq9AXa89TmSPxAAI-BiA",
+        "jettonName": "GODL / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/x7UmphIIDsU1MOx6MOwt6kBAPaG2my_G1mCHhqrG274/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MjdmMjhlMjM0ZDhmMjgzMWY0OTQ5ODgzNTdmODdiOTJiNWIwZjg3NmFmNDA1ZGFmM2Q0ZTY0OGZjNDAwMDhmOC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "239997380804007",
+            "admin": {
+                "address": "0:22bf722ec5803a64612e9ce819493b8c0736e98f045b5b0d3df96b04fa2a8a28",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:27f28e234d8f2831f494988357f87b92b5b0f876af405daf3d4e648fc40008f8",
+                "name": "LP Token for GODL-pTON",
+                "symbol": "GODL-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/x7UmphIIDsU1MOx6MOwt6kBAPaG2my_G1mCHhqrG274/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MjdmMjhlMjM0ZDhmMjgzMWY0OTQ5ODgzNTdmODdiOTJiNWIwZjg3NmFmNDA1ZGFmM2Q0ZTY0OGZjNDAwMDhmOC5wbmc.webp",
+                "description": "Liquidity pool token for RoOLZ and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 81
+        }
+    },
+    {
+        "jettonVolumeStringAll": "51895.2908033031",
+        "jettonLiqStringAll": "79380.8719",
+        "jettonFDVStringAll": "500880",
+        "jettonSupplyAll": "679257840276512",
+        "jettonVolume": "51.9к",
+        "jettonLiq": "79.4к",
+        "jettonFDV": "501к",
+        "jettonPrice": "0.00050",
+        "jettonH24": "19.23",
+        "jettonCreated": "2024-11-13T16:33:09Z",
+        "jettonAddress": "EQCXNlpCkgDaa_Rzhgly1qleQzOPqQ43D-r7__grcuB1q9WL",
+        "jettonName": "VILARSO / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/KGhbrjGG46zbdQfveMoBh-hyZVgz2qRwNmUlhfV4K0o/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6OTczNjVhNDI5MjAwZGE2YmY0NzM4NjA5NzJkNmE5NWU0MzMzOGZhOTBlMzcwZmVhZmJmZmY4MmI3MmUwNzVhYi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "679257840276512",
+            "admin": {
+                "address": "0:92e1411ae546892f33b2c8a89ea90390d8ff4cfbb917a643b91e73f706fdb9d1",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:97365a429200da6bf473860972d6a95e43338fa90e370feafbfff82b72e075ab",
+                "name": "LP Token for pTON-VILARSO",
+                "symbol": "pTON-VILARSO LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/KGhbrjGG46zbdQfveMoBh-hyZVgz2qRwNmUlhfV4K0o/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6OTczNjVhNDI5MjAwZGE2YmY0NzM4NjA5NzJkNmE5NWU0MzMzOGZhOTBlMzcwZmVhZmJmZmY4MmI3MmUwNzVhYi5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and Vilarso on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 30
+        }
+    },
+    {
+        "jettonVolumeStringAll": "3723.0252260547",
+        "jettonLiqStringAll": "19637.4754",
+        "jettonFDVStringAll": "1243690",
+        "jettonSupplyAll": "65704240260486",
+        "jettonVolume": "3.72к",
+        "jettonLiq": "19.6к",
+        "jettonFDV": "1.24м",
+        "jettonPrice": "0.00353",
+        "jettonH24": "-27.08",
+        "jettonCreated": "2024-10-22T09:03:06Z",
+        "jettonAddress": "EQDq1cQKb6vQItJgBhwn7bS2FpJNnDLOKDUIBF8hHJgQwqlD",
+        "jettonName": "CATBOX / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/ay7yxmXOPsAl60BYWgaSy5Oqw6-TEj1Xg5fIoHLQVso/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZWFkNWM0MGE2ZmFiZDAyMmQyNjAwNjFjMjdlZGI0YjYxNjkyNGQ5YzMyY2UyODM1MDgwNDVmMjExYzk4MTBjMi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "65704240260486",
+            "admin": {
+                "address": "0:e1e681cfbdf4703eed9b3910460a82c43b859064a2f87e4e430f583275e346f6",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:ead5c40a6fabd022d260061c27edb4b616924d9c32ce283508045f211c9810c2",
+                "name": "LP Token for CATBOX-pTON",
+                "symbol": "CATBOX-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/ay7yxmXOPsAl60BYWgaSy5Oqw6-TEj1Xg5fIoHLQVso/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZWFkNWM0MGE2ZmFiZDAyMmQyNjAwNjFjMjdlZGI0YjYxNjkyNGQ5YzMyY2UyODM1MDgwNDVmMjExYzk4MTBjMi5wbmc.webp",
+                "description": "Liquidity pool token for CatBox and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 3
+        }
+    },
+    {
+        "jettonVolumeStringAll": "321988.972337906",
+        "jettonLiqStringAll": "78807.4805",
+        "jettonFDVStringAll": "743598",
+        "jettonSupplyAll": "162085691636",
+        "jettonVolume": "322к",
+        "jettonLiq": "78.8к",
+        "jettonFDV": "744к",
+        "jettonPrice": "0.00743",
+        "jettonH24": "4.52",
+        "jettonCreated": "2024-04-26T11:13:29Z",
+        "jettonAddress": "EQDFX6HhxtugE7UEw7e-rqbSH76cQ42MBHpIrl9_cVYdpwOh",
+        "jettonName": "TRT / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/CYjbAib4tDMVloyCL_GnHsD4THmPej1najYlVPrsnCg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YzU1ZmExZTFjNmRiYTAxM2I1MDRjM2I3YmVhZWE2ZDIxZmJlOWM0MzhkOGMwNDdhNDhhZTVmN2Y3MTU2MWRhNy5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "162085691636",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:c55fa1e1c6dba013b504c3b7beaea6d21fbe9c438d8c047a48ae5f7f71561da7",
+                "name": "LP Token for TRT-TON",
+                "symbol": "TRT-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/CYjbAib4tDMVloyCL_GnHsD4THmPej1najYlVPrsnCg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YzU1ZmExZTFjNmRiYTAxM2I1MDRjM2I3YmVhZWE2ZDIxZmJlOWM0MzhkOGMwNDdhNDhhZTVmN2Y3MTU2MWRhNy5wbmc.webp",
+                "description": "Liquidity pool token for TryTON and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 7
+        }
+    },
+    {
+        "jettonVolumeStringAll": "14389.6225409928",
+        "jettonLiqStringAll": "46459.5681",
+        "jettonFDVStringAll": "21862865",
+        "jettonSupplyAll": "1489280111703971",
+        "jettonVolume": "14.4к",
+        "jettonLiq": "46.5к",
+        "jettonFDV": "21.9м",
+        "jettonPrice": "0.00003",
+        "jettonH24": "-0.3",
+        "jettonCreated": "2024-10-16T00:43:07Z",
+        "jettonAddress": "EQDHXArD2nU7DZ4coDGKxCLiKRJC-TKmkr_U52IjYetNwksA",
+        "jettonName": "CATS / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/MsW3y1FBQvigufuNbVROcJvQL7dIgh4ubM7CVcELInM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6Yzc1YzBhYzNkYTc1M2IwZDllMWNhMDMxOGFjNDIyZTIyOTEyNDJmOTMyYTY5MmJmZDRlNzYyMjM2MWViNGRjMi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "1489280111703971",
+            "admin": {
+                "address": "0:c03f27bb1c03c0025e165e9cf98ce09d85fd87f61f50924cd143ee8ae6eb22b9",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:c75c0ac3da753b0d9e1ca0318ac422e2291242f932a692bfd4e7622361eb4dc2",
+                "name": "LP Token for pTON-CATS",
+                "symbol": "pTON-CATS LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/MsW3y1FBQvigufuNbVROcJvQL7dIgh4ubM7CVcELInM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6Yzc1YzBhYzNkYTc1M2IwZDllMWNhMDMxOGFjNDIyZTIyOTEyNDJmOTMyYTY5MmJmZDRlNzYyMjM2MWViNGRjMi5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and CATS on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 34
+        }
+    },
+    {
+        "jettonVolumeStringAll": "18466.979121235",
+        "jettonLiqStringAll": "201768.5788",
+        "jettonFDVStringAll": "825531",
+        "jettonSupplyAll": "1320945353978711",
+        "jettonVolume": "18.5к",
+        "jettonLiq": "202к",
+        "jettonFDV": "826к",
+        "jettonPrice": "0.00082",
+        "jettonH24": "-13.7",
+        "jettonCreated": "2024-11-15T17:03:06Z",
+        "jettonAddress": "EQBdSOEXvXWBS-9MpmLuQg86Be6Ue5IKC7K5PRjtHAkUcibG",
+        "jettonName": "USACH / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/KG_AUyKPENqmMv3oOhgZhuEP1wTtuT_coP3LqDHvsPw/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NWQ0OGUxMTdiZDc1ODE0YmVmNGNhNjYyZWU0MjBmM2EwNWVlOTQ3YjkyMGEwYmIyYjkzZDE4ZWQxYzA5MTQ3Mi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "1320945353978711",
+            "admin": {
+                "address": "0:92e1411ae546892f33b2c8a89ea90390d8ff4cfbb917a643b91e73f706fdb9d1",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:5d48e117bd75814bef4ca662ee420f3a05ee947b920a0bb2b93d18ed1c091472",
+                "name": "LP Token for USACH-pTON",
+                "symbol": "USACH-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/KG_AUyKPENqmMv3oOhgZhuEP1wTtuT_coP3LqDHvsPw/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NWQ0OGUxMTdiZDc1ODE0YmVmNGNhNjYyZWU0MjBmM2EwNWVlOTQ3YjkyMGEwYmIyYjkzZDE4ZWQxYzA5MTQ3Mi5wbmc.webp",
+                "description": "Liquidity pool token for Us Usach and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 110
+        }
+    },
+    {
+        "jettonVolumeStringAll": "95008.2755601074",
+        "jettonLiqStringAll": "972649.671",
+        "jettonFDVStringAll": "35686985",
+        "jettonSupplyAll": "1021354495607408",
+        "jettonVolume": "95к",
+        "jettonLiq": "973к",
+        "jettonFDV": "35.7м",
+        "jettonPrice": "0.03568",
+        "jettonH24": "-2.88",
+        "jettonCreated": "2024-10-16T13:23:09Z",
+        "jettonAddress": "EQB95X5u5B7pfri4rtiB4yDkiMh2fssW_2iEOEFKfLmAeqVo",
+        "jettonName": "STORM / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/xDPCucooj8nXPxmdJU5imAO0yNGRH2W6v53exM8YCR8/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdGF0aWMuc3Rvcm0udGcvU1RPUk0tcFRPTi1MUC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "1021354495607408",
+            "admin": {
+                "address": "0:720032f945ad9d95dacc48172d81f4a6d97d96d4feb53555b64580dbf1e24d24",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:7de57e6ee41ee97eb8b8aed881e320e488c8767ecb16ff688438414a7cb9807a",
+                "name": "LP Token for STORM-pTON",
+                "symbol": "STORM-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/xDPCucooj8nXPxmdJU5imAO0yNGRH2W6v53exM8YCR8/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdGF0aWMuc3Rvcm0udGcvU1RPUk0tcFRPTi1MUC5wbmc.webp",
+                "description": "Liquidity pool token for STORM and Proxy TON on STON.fi DEX. Liquidity pool link: https://app.ston.fi/pools/EQB95X5u5B7pfri4rtiB4yDkiMh2fssW_2iEOEFKfLmAeqVo",
+                "social": [
+                    "https://t.me/storm_trade_news",
+                    "https://t.me/storm_trade_fam"
+                ],
+                "websites": [
+                    "https://storm.tg"
+                ]
+            },
+            "verification": "whitelist",
+            "holders_count": 138
+        }
+    },
+    {
+        "jettonVolumeStringAll": "70026.2266598226",
+        "jettonLiqStringAll": "404972.8189",
+        "jettonFDVStringAll": "49184566",
+        "jettonSupplyAll": "73975731066",
+        "jettonVolume": "70к",
+        "jettonLiq": "405к",
+        "jettonFDV": "49.2м",
+        "jettonPrice": "0.53536",
+        "jettonH24": "-3.39",
+        "jettonCreated": "2023-11-20T03:07:15Z",
+        "jettonAddress": "EQATnq6W2xv10C19LNlC26xFtTV1fbzMkXmXQCWHqtv6Okf7",
+        "jettonName": "JETTON / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/2cimR4B03u3DF3cpFBqWdX4fMbyVv4YB1kK4OKsUSQw/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MTM5ZWFlOTZkYjFiZjVkMDJkN2QyY2Q5NDJkYmFjNDViNTM1NzU3ZGJjY2M5MTc5OTc0MDI1ODdhYWRiZmEzYS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "73975731066",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:139eae96db1bf5d02d7d2cd942dbac45b535757dbccc917997402587aadbfa3a",
+                "name": "LP Token for TON-JETTON",
+                "symbol": "TON-JETTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/2cimR4B03u3DF3cpFBqWdX4fMbyVv4YB1kK4OKsUSQw/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MTM5ZWFlOTZkYjFiZjVkMDJkN2QyY2Q5NDJkYmFjNDViNTM1NzU3ZGJjY2M5MTc5OTc0MDI1ODdhYWRiZmEzYS5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and JetTon on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 3241
+        }
+    },
+    {
+        "jettonVolumeStringAll": "295074.749927632",
+        "jettonLiqStringAll": "218037.9768",
+        "jettonFDVStringAll": "16490304",
+        "jettonSupplyAll": "866",
+        "jettonVolume": "295к",
+        "jettonLiq": "218к",
+        "jettonFDV": "16.5м",
+        "jettonPrice": "0.00016",
+        "jettonH24": "1820.65",
+        "jettonCreated": "2024-11-23T16:53:08Z",
+        "jettonAddress": "EQBk2ykmBc7wDc0xzRcWR2OcxcAOTa0VQeZBYQY0vCUK-joC",
+        "jettonName": "BLUM / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/udrOOetnItuucoIQc6CBXZ6M1GAw1eotJxDB8DuoJTg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NjRkYjI5MjYwNWNlZjAwZGNkMzFjZDE3MTY0NzYzOWNjNWMwMGU0ZGFkMTU0MWU2NDE2MTA2MzRiYzI1MGFmYS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "866",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:64db292605cef00dcd31cd171647639cc5c00e4dad1541e641610634bc250afa",
+                "name": "LP Token for BLUM-TON",
+                "symbol": "BLUM-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/udrOOetnItuucoIQc6CBXZ6M1GAw1eotJxDB8DuoJTg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NjRkYjI5MjYwNWNlZjAwZGNkMzFjZDE3MTY0NzYzOWNjNWMwMGU0ZGFkMTU0MWU2NDE2MTA2MzRiYzI1MGFmYS5wbmc.webp",
+                "description": "Liquidity pool token for Blum and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 0
+        }
+    },
+    {
+        "jettonVolumeStringAll": "22549.5243083598",
+        "jettonLiqStringAll": "171794.081",
+        "jettonFDVStringAll": "2833840",
+        "jettonSupplyAll": "138437945902",
+        "jettonVolume": "22.5к",
+        "jettonLiq": "172к",
+        "jettonFDV": "2.83м",
+        "jettonPrice": "0.02853",
+        "jettonH24": "-6.56",
+        "jettonCreated": "2024-04-06T16:43:13Z",
+        "jettonAddress": "EQAIp9JcWs87eXXuaTaDXxzQSoN6yt4pffqxy1hXWBBmguqq",
+        "jettonName": "durev / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/PHIKVWQkwCQFYqtbHilDkCE7RsohZ3pZJ2M38ONk4ac/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MDhhN2QyNWM1YWNmM2I3OTc1ZWU2OTM2ODM1ZjFjZDA0YTgzN2FjYWRlMjk3ZGZhYjFjYjU4NTc1ODEwNjY4Mi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "138437945902",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:08a7d25c5acf3b7975ee6936835f1cd04a837acade297dfab1cb585758106682",
+                "name": "LP Token for TON-durev",
+                "symbol": "TON-durev LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/PHIKVWQkwCQFYqtbHilDkCE7RsohZ3pZJ2M38ONk4ac/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MDhhN2QyNWM1YWNmM2I3OTc1ZWU2OTM2ODM1ZjFjZDA0YTgzN2FjYWRlMjk3ZGZhYjFjYjU4NTc1ODEwNjY4Mi5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and povel durev on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 136
+        }
+    },
+    {
+        "jettonVolumeStringAll": "21887.9227903733",
+        "jettonLiqStringAll": "387978.4379",
+        "jettonFDVStringAll": "4560005",
+        "jettonSupplyAll": "564252233317869",
+        "jettonVolume": "21.9к",
+        "jettonLiq": "388к",
+        "jettonFDV": "4.56м",
+        "jettonPrice": "0.00000",
+        "jettonH24": "-4.21",
+        "jettonCreated": "2024-01-02T10:53:01Z",
+        "jettonAddress": "EQCVflRjTn91FKGZzy2UTHgLn3hG3TsOlQIsAOPcB57K5gT5",
+        "jettonName": "FISH / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/uwpW6sDstsER-kywzGxfV0AxtdnjmBIaHxRrsu0cLYQ/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6OTU3ZTU0NjM0ZTdmNzUxNGExOTljZjJkOTQ0Yzc4MGI5Zjc4NDZkZDNiMGU5NTAyMmMwMGUzZGMwNzllY2FlNi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "564252233317869",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:957e54634e7f7514a199cf2d944c780b9f7846dd3b0e95022c00e3dc079ecae6",
+                "name": "LP Token for TON-FISH",
+                "symbol": "TON-FISH LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/uwpW6sDstsER-kywzGxfV0AxtdnjmBIaHxRrsu0cLYQ/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6OTU3ZTU0NjM0ZTdmNzUxNGExOTljZjJkOTQ0Yzc4MGI5Zjc4NDZkZDNiMGU5NTAyMmMwMGUzZGMwNzllY2FlNi5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and TON FISH MEMECOIN on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 632
+        }
+    },
+    {
+        "jettonVolumeStringAll": "20080.4883648641",
+        "jettonLiqStringAll": "11337.0687",
+        "jettonFDVStringAll": "15627.14",
+        "jettonSupplyAll": null,
+        "jettonVolume": "20.1к",
+        "jettonLiq": "11.3к",
+        "jettonFDV": "15.6к",
+        "jettonPrice": "0.00001",
+        "jettonH24": "-48.39",
+        "jettonCreated": "2024-11-23T12:33:09Z",
+        "jettonAddress": "EQDfXaHV-v73Q51OKyal7IC86cIXPZdBKkchzoTIQX3cUInl",
+        "jettonName": "GOATON / TON",
+        "jettonColor": "red",
+        "jettonImage": null,
+        "resultJetton": {
+            "error": "rate limit: limit for tier"
+        }
+    },
+    {
+        "jettonVolumeStringAll": "1897.7103116478",
+        "jettonLiqStringAll": "7628.8956",
+        "jettonFDVStringAll": "390983434",
+        "jettonSupplyAll": null,
+        "jettonVolume": "1.9к",
+        "jettonLiq": "7.63к",
+        "jettonFDV": "391м",
+        "jettonPrice": "0.00390",
+        "jettonH24": "2.13",
+        "jettonCreated": "2024-10-01T10:23:16Z",
+        "jettonAddress": "EQCtKNP7bpETSSgjUmBKuJrW8ycvmqLccydliPM47sPYIzWb",
+        "jettonName": "HMSTR / TON",
+        "jettonColor": "green",
+        "jettonImage": null,
+        "resultJetton": {
+            "error": "rate limit: limit for tier"
+        }
+    },
+    {
+        "jettonVolumeStringAll": "11605.1578149088",
+        "jettonLiqStringAll": "8983.9929",
+        "jettonFDVStringAll": "11063.49",
+        "jettonSupplyAll": "545763685238217",
+        "jettonVolume": "11.6к",
+        "jettonLiq": "8.98к",
+        "jettonFDV": "11.1к",
+        "jettonPrice": "0.00001",
+        "jettonH24": "-57.34",
+        "jettonCreated": "2024-11-23T10:53:06Z",
+        "jettonAddress": "EQBtv-KNnRjMoVL7gYygOqoYuKMirWUVDwm064oBala9MZjp",
+        "jettonName": "AUCTION / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/LfrQDkCrp78-dfWfchQUS7dLukTCUTCvJNtkq8Xgda8/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NmRiZmUyOGQ5ZDE4Y2NhMTUyZmI4MThjYTAzYWFhMThiOGEzMjJhZDY1MTUwZjA5YjRlYjhhMDE2YTU2YmQzMS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545763685238217",
+            "admin": {
+                "address": "0:320fb3bc0af55d47c00425cafde9f1c8d627c5ab6d52f1032dd5cce2e487c93f",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:6dbfe28d9d18cca152fb818ca03aaa18b8a322ad65150f09b4eb8a016a56bd31",
+                "name": "LP Token for pTON-AUCTION",
+                "symbol": "pTON-AUCTION LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/LfrQDkCrp78-dfWfchQUS7dLukTCUTCvJNtkq8Xgda8/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NmRiZmUyOGQ5ZDE4Y2NhMTUyZmI4MThjYTAzYWFhMThiOGEzMjJhZDY1MTUwZjA5YjRlYjhhMDE2YTU2YmQzMS5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and Auction on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "3969.2910388412",
+        "jettonLiqStringAll": "26792.6699",
+        "jettonFDVStringAll": "11248782",
+        "jettonSupplyAll": "15972147503618",
+        "jettonVolume": "3.97к",
+        "jettonLiq": "26.8к",
+        "jettonFDV": "11.2м",
+        "jettonPrice": "0.11248",
+        "jettonH24": "-4.26",
+        "jettonCreated": "2024-11-08T04:53:05Z",
+        "jettonAddress": "EQB7AOAXYCUAsHVTYwur54iJ2TD9HtvCEeSL_o9HGLPMrvyE",
+        "jettonName": "HELL / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/_bznFpnk0uSOGqMNO4KarLMYnCWxc5LJvhmuKW2lgS4/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6N2IwMGUwMTc2MDI1MDBiMDc1NTM2MzBiYWJlNzg4ODlkOTMwZmQxZWRiYzIxMWU0OGJmZThmNDcxOGIzY2NhZS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "15972147503618",
+            "admin": {
+                "address": "0:720032f945ad9d95dacc48172d81f4a6d97d96d4feb53555b64580dbf1e24d24",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:7b00e017602500b07553630babe78889d930fd1edbc211e48bfe8f4718b3ccae",
+                "name": "LP Token for pTON-HELL",
+                "symbol": "pTON-HELL LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/_bznFpnk0uSOGqMNO4KarLMYnCWxc5LJvhmuKW2lgS4/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6N2IwMGUwMTc2MDI1MDBiMDc1NTM2MzBiYWJlNzg4ODlkOTMwZmQxZWRiYzIxMWU0OGJmZThmNDcxOGIzY2NhZS5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and Hell Chest on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 2
+        }
+    },
+    {
+        "jettonVolumeStringAll": "78738.3859134014",
+        "jettonLiqStringAll": "320812.4168",
+        "jettonFDVStringAll": "9462234",
+        "jettonSupplyAll": "678245629384",
+        "jettonVolume": "78.7к",
+        "jettonLiq": "321к",
+        "jettonFDV": "9.46м",
+        "jettonPrice": "0.00383",
+        "jettonH24": "-15.27",
+        "jettonCreated": "2024-01-31T14:43:03Z",
+        "jettonAddress": "EQASBZLwa2vfdsgoDF2w96pdccBJJRxDNXXPUL7NMm0WdnMx",
+        "jettonName": "GRAM / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/xBWj1zQojEmtK7GXWVNzxqqfn82WQcmAZWT_JmJoc3M/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MTIwNTkyZjA2YjZiZGY3NmM4MjgwYzVkYjBmN2FhNWQ3MWMwNDkyNTFjNDMzNTc1Y2Y1MGJlY2QzMjZkMTY3Ni5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "678245629384",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:120592f06b6bdf76c8280c5db0f7aa5d71c049251c433575cf50becd326d1676",
+                "name": "LP Token for GRAM-TON",
+                "symbol": "GRAM-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/xBWj1zQojEmtK7GXWVNzxqqfn82WQcmAZWT_JmJoc3M/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MTIwNTkyZjA2YjZiZGY3NmM4MjgwYzVkYjBmN2FhNWQ3MWMwNDkyNTFjNDMzNTc1Y2Y1MGJlY2QzMjZkMTY3Ni5wbmc.webp",
+                "description": "Liquidity pool token for Gram and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 13210
+        }
+    },
+    {
+        "jettonVolumeStringAll": "46170.3020409225",
+        "jettonLiqStringAll": "22167.7355",
+        "jettonFDVStringAll": "62508.57",
+        "jettonSupplyAll": "545763685146052",
+        "jettonVolume": "46.2к",
+        "jettonLiq": "22.2к",
+        "jettonFDV": "62.5к",
+        "jettonPrice": "0.00006",
+        "jettonH24": "-18.84",
+        "jettonCreated": "2024-11-18T23:23:07Z",
+        "jettonAddress": "EQAAOSaS--NJ1taZ1jsptGLEAkITw39q1-sF-YLRKpVOektd",
+        "jettonName": "BANC / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/xasEuuVdcnm7bF85ihjgbDEJdEWZxV1y7is4-9XXgZI/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MDAzOTI2OTJmYmUzNDlkNmQ2OTlkNjNiMjliNDYyYzQwMjQyMTNjMzdmNmFkN2ViMDVmOTgyZDEyYTk1NGU3YS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545763685146052",
+            "admin": {
+                "address": "0:f1fbe8d453d3d4b4796d3d8657ef0773222d123d8dca67c9ef3acd2266f40977",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:00392692fbe349d6d699d63b29b462c4024213c37f6ad7eb05f982d12a954e7a",
+                "name": "LP Token for BANC-pTON",
+                "symbol": "BANC-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/xasEuuVdcnm7bF85ihjgbDEJdEWZxV1y7is4-9XXgZI/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MDAzOTI2OTJmYmUzNDlkNmQ2OTlkNjNiMjliNDYyYzQwMjQyMTNjMzdmNmFkN2ViMDVmOTgyZDEyYTk1NGU3YS5wbmc.webp",
+                "description": "Liquidity pool token for BananaCycle and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "20663.4635820234",
+        "jettonLiqStringAll": "85158.6563",
+        "jettonFDVStringAll": "24857580",
+        "jettonSupplyAll": "208363703922",
+        "jettonVolume": "20.7к",
+        "jettonLiq": "85.2к",
+        "jettonFDV": "24.9м",
+        "jettonPrice": "0.00035",
+        "jettonH24": "7.39",
+        "jettonCreated": "2024-09-23T09:53:10Z",
+        "jettonAddress": "EQA4c2edlFI4soyArI9Qa71dzt1a2zkO-a44u5RrQ7QG8rA9",
+        "jettonName": "WAT / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/LuypyYrePkn4l0g-gOcVupM5sShdPPRyecFyE5o_t2E/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6Mzg3MzY3OWQ5NDUyMzhiMjhjODBhYzhmNTA2YmJkNWRjZWRkNWFkYjM5MGVmOWFlMzhiYjk0NmI0M2I0MDZmMi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "208363703922",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:3873679d945238b28c80ac8f506bbd5dcedd5adb390ef9ae38bb946b43b406f2",
+                "name": "LP Token for WAT-TON",
+                "symbol": "WAT-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/LuypyYrePkn4l0g-gOcVupM5sShdPPRyecFyE5o_t2E/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6Mzg3MzY3OWQ5NDUyMzhiMjhjODBhYzhmNTA2YmJkNWRjZWRkNWFkYjM5MGVmOWFlMzhiYjk0NmI0M2I0MDZmMi5wbmc.webp",
+                "description": "Liquidity pool token for WATCoin and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1026
+        }
+    },
+    {
+        "jettonVolumeStringAll": "63293.0036496345",
+        "jettonLiqStringAll": "847716.3657",
+        "jettonFDVStringAll": "12080189",
+        "jettonSupplyAll": "1522658445230475",
+        "jettonVolume": "63.3к",
+        "jettonLiq": "848к",
+        "jettonFDV": "12.1м",
+        "jettonPrice": "0.01218",
+        "jettonH24": "-5.67",
+        "jettonCreated": "2024-11-04T20:13:07Z",
+        "jettonAddress": "EQCROrreA5W2pJ4Xz-Z3yJW5R7irLnAyAADObkfmQ_20LAME",
+        "jettonName": "AMORE / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/7B6sPdRdfwNu6QZ40PKOrUFTHj-buSebz1wWeJVRuOk/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6OTEzYWJhZGUwMzk1YjZhNDllMTdjZmU2NzdjODk1Yjk0N2I4YWIyZTcwMzIwMDAwY2U2ZTQ3ZTY0M2ZkYjQyYy5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "1522658445230475",
+            "admin": {
+                "address": "0:091b9a7264f58489088c54975fedb0d18112f383a411e7ba8a791b0eacc3be9d",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:913abade0395b6a49e17cfe677c895b947b8ab2e70320000ce6e47e643fdb42c",
+                "name": "LP Token for AMORE-pTON",
+                "symbol": "AMORE-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/7B6sPdRdfwNu6QZ40PKOrUFTHj-buSebz1wWeJVRuOk/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6OTEzYWJhZGUwMzk1YjZhNDllMTdjZmU2NzdjODk1Yjk0N2I4YWIyZTcwMzIwMDAwY2U2ZTQ3ZTY0M2ZkYjQyYy5wbmc.webp",
+                "description": "Liquidity pool token for Amocucinare and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 411
+        }
+    },
+    {
+        "jettonVolumeStringAll": "17190.3912933861",
+        "jettonLiqStringAll": "22176.7938",
+        "jettonFDVStringAll": "61512.89",
+        "jettonSupplyAll": "546208662368246",
+        "jettonVolume": "17.2к",
+        "jettonLiq": "22.2к",
+        "jettonFDV": "61.5к",
+        "jettonPrice": "0.00006",
+        "jettonH24": "-24.51",
+        "jettonCreated": "2024-11-20T21:23:10Z",
+        "jettonAddress": "EQCODVpUlV07AWsO1X9LJ_TgPcHPcqX3ztXxAyl6wTMnsvFG",
+        "jettonName": "MULB / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/viDJdgP0LFg34zTJ-qWb2_y4zcn6kiJS8_ctnEUDp9o/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6OGUwZDVhNTQ5NTVkM2IwMTZiMGVkNTdmNGIyN2Y0ZTAzZGMxY2Y3MmE1ZjdjZWQ1ZjEwMzI5N2FjMTMzMjdiMi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "546208662368246",
+            "admin": {
+                "address": "0:e1e681cfbdf4703eed9b3910460a82c43b859064a2f87e4e430f583275e346f6",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:8e0d5a54955d3b016b0ed57f4b27f4e03dc1cf72a5f7ced5f103297ac13327b2",
+                "name": "LP Token for pTON-MULB",
+                "symbol": "pTON-MULB LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/viDJdgP0LFg34zTJ-qWb2_y4zcn6kiJS8_ctnEUDp9o/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6OGUwZDVhNTQ5NTVkM2IwMTZiMGVkNTdmNGIyN2Y0ZTAzZGMxY2Y3MmE1ZjdjZWQ1ZjEwMzI5N2FjMTMzMjdiMi5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and mulB on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 2
+        }
+    },
+    {
+        "jettonVolumeStringAll": "130966.426233364",
+        "jettonLiqStringAll": "883577.4415",
+        "jettonFDVStringAll": "463681537",
+        "jettonSupplyAll": "82325965126390",
+        "jettonVolume": "131к",
+        "jettonLiq": "884к",
+        "jettonFDV": "464м",
+        "jettonPrice": "4.63681",
+        "jettonH24": "-4.1",
+        "jettonCreated": "2024-10-21T15:33:07Z",
+        "jettonAddress": "EQDcFD0T-3TIe7sF3MelkkRh9eDJ73N76-5WhCt8h8IY_5iu",
+        "jettonName": "STON / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/j9GBYmz0T-EjrXwUH9Hf68aZRkVy4MdMURYU6OmMiJo/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZGMxNDNkMTNmYjc0Yzg3YmJiMDVkY2M3YTU5MjQ0NjFmNWUwYzllZjczN2JlYmVlNTY4NDJiN2M4N2MyMThmZi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "82325965126390",
+            "admin": {
+                "address": "0:d0ea3e77ab6d47b99b70ea87259bbcf82d4d9c1ba4b638abe9492307e78f1dee",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:dc143d13fb74c87bbb05dcc7a5924461f5e0c9ef737bebee56842b7c87c218ff",
+                "name": "LP Token for STON-pTON",
+                "symbol": "STON-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/j9GBYmz0T-EjrXwUH9Hf68aZRkVy4MdMURYU6OmMiJo/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZGMxNDNkMTNmYjc0Yzg3YmJiMDVkY2M3YTU5MjQ0NjFmNWUwYzllZjczN2JlYmVlNTY4NDJiN2M4N2MyMThmZi5wbmc.webp",
+                "description": "Liquidity pool token for STON and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 90
+        }
+    },
+    {
+        "jettonVolumeStringAll": "86445.377016371",
+        "jettonLiqStringAll": "785676.0482",
+        "jettonFDVStringAll": "463077399",
+        "jettonSupplyAll": "40332508670",
+        "jettonVolume": "86.4к",
+        "jettonLiq": "786к",
+        "jettonFDV": "463м",
+        "jettonPrice": "4.63077",
+        "jettonH24": "-3.55",
+        "jettonCreated": "2023-11-20T03:07:17Z",
+        "jettonAddress": "EQDtZHOtVWaf9UIU6rmjLPNLTGxNLNogvK5xUZlMRgZwQ4Gt",
+        "jettonName": "STON / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/lR4LlrhqaFxc28UdAX0VSA5D0NSWWnazS9JlEkEIQgY/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZWQ2NDczYWQ1NTY2OWZmNTQyMTRlYWI5YTMyY2YzNGI0YzZjNGQyY2RhMjBiY2FlNzE1MTk5NGM0NjA2NzA0My5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "40332508670",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:ed6473ad55669ff54214eab9a32cf34b4c6c4d2cda20bcae7151994c46067043",
+                "name": "LP Token for STON-TON",
+                "symbol": "STON-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/lR4LlrhqaFxc28UdAX0VSA5D0NSWWnazS9JlEkEIQgY/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZWQ2NDczYWQ1NTY2OWZmNTQyMTRlYWI5YTMyY2YzNGI0YzZjNGQyY2RhMjBiY2FlNzE1MTk5NGM0NjA2NzA0My5wbmc.webp",
+                "description": "Liquidity pool token for STON and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 2633
+        }
+    },
+    {
+        "jettonVolumeStringAll": "12540.43750897",
+        "jettonLiqStringAll": "18516.1835",
+        "jettonFDVStringAll": "42295.35",
+        "jettonSupplyAll": "546293635551757",
+        "jettonVolume": "12.5к",
+        "jettonLiq": "18.5к",
+        "jettonFDV": "42.3к",
+        "jettonPrice": "0.00004",
+        "jettonH24": "-19.66",
+        "jettonCreated": "2024-11-21T10:53:06Z",
+        "jettonAddress": "EQDzf3WUJvNqlXnzggvxTDweWW7l7DaZ68qyvRVx1a2xm0Zy",
+        "jettonName": "TETRIX / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/-VaZbuGuag0pcYONSQgn62ieTN7cw_lRPfDfLNSZM-M/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZjM3Zjc1OTQyNmYzNmE5NTc5ZjM4MjBiZjE0YzNjMWU1OTZlZTVlYzM2OTllYmNhYjJiZDE1NzFkNWFkYjE5Yi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "546293635551757",
+            "admin": {
+                "address": "0:e1e681cfbdf4703eed9b3910460a82c43b859064a2f87e4e430f583275e346f6",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:f37f759426f36a9579f3820bf14c3c1e596ee5ec3699ebcab2bd1571d5adb19b",
+                "name": "LP Token for pTON-TETRIX",
+                "symbol": "pTON-TETRIX LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/-VaZbuGuag0pcYONSQgn62ieTN7cw_lRPfDfLNSZM-M/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZjM3Zjc1OTQyNmYzNmE5NTc5ZjM4MjBiZjE0YzNjMWU1OTZlZTVlYzM2OTllYmNhYjJiZDE1NzFkNWFkYjE5Yi5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and TETRIX on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 2
+        }
+    },
+    {
+        "jettonVolumeStringAll": "3725.6540870126",
+        "jettonLiqStringAll": "111601.9279",
+        "jettonFDVStringAll": "821427",
+        "jettonSupplyAll": "2452302372893079",
+        "jettonVolume": "3.73к",
+        "jettonLiq": "112к",
+        "jettonFDV": "821к",
+        "jettonPrice": "0.00008",
+        "jettonH24": "-6.87",
+        "jettonCreated": "2024-11-03T20:03:08Z",
+        "jettonAddress": "EQBXyg8CGiiNsriRUKFeyMf_4kwV7145uYTzJegDTGGFhlgv",
+        "jettonName": "AMBER / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/sysOPaIObBGi2EaWV7JhnRI9g1cwcfZz2LX9LV8M8xM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NTdjYTBmMDIxYTI4OGRiMmI4OTE1MGExNWVjOGM3ZmZlMjRjMTVlZjVlMzliOTg0ZjMyNWU4MDM0YzYxODU4Ni5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "2452302372893079",
+            "admin": {
+                "address": "0:42b6537b672f7aab1fb7c87d188b857448db50fbc45b85868db3ae4c0b81f07e",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:57ca0f021a288db2b89150a15ec8c7ffe24c15ef5e39b984f325e8034c618586",
+                "name": "LP Token for AMBER-pTON",
+                "symbol": "AMBER-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/sysOPaIObBGi2EaWV7JhnRI9g1cwcfZz2LX9LV8M8xM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NTdjYTBmMDIxYTI4OGRiMmI4OTE1MGExNWVjOGM3ZmZlMjRjMTVlZjVlMzliOTg0ZjMyNWU4MDM0YzYxODU4Ni5wbmc.webp",
+                "description": "Liquidity pool token for AmberTON and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 4
+        }
+    },
+    {
+        "jettonVolumeStringAll": "263.6921227451",
+        "jettonLiqStringAll": "947.998",
+        "jettonFDVStringAll": "1020262634",
+        "jettonSupplyAll": "1775482511879",
+        "jettonVolume": "263.6921227451",
+        "jettonLiq": "947.998",
+        "jettonFDV": "1.02 млрд",
+        "jettonPrice": "0.00995",
+        "jettonH24": "25.52",
+        "jettonCreated": "2024-10-01T10:23:23Z",
+        "jettonAddress": "EQB5lkxzGQCSkee92F_RTB91yVKo8wl0HwwRIZbvCWBKV1I1",
+        "jettonName": "NOT / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/pC1y3b-lJa-Mru_EEbbUv_Vf_VNyMuJNWsYaPiPvh5w/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6Nzk5NjRjNzMxOTAwOTI5MWU3YmRkODVmZDE0YzFmNzVjOTUyYThmMzA5NzQxZjBjMTEyMTk2ZWYwOTYwNGE1Ny5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "1775482511879",
+            "admin": {
+                "address": "0:6333b0763ca6bcd883caad415b30568a7900c51933119ebbd8d539a9b42ecac7",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:79964c7319009291e7bdd85fd14c1f75c952a8f309741f0c112196ef09604a57",
+                "name": "LP Token for NOT-pTON",
+                "symbol": "NOT-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/pC1y3b-lJa-Mru_EEbbUv_Vf_VNyMuJNWsYaPiPvh5w/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6Nzk5NjRjNzMxOTAwOTI5MWU3YmRkODVmZDE0YzFmNzVjOTUyYThmMzA5NzQxZjBjMTEyMTk2ZWYwOTYwNGE1Ny5wbmc.webp",
+                "description": "Liquidity pool token for Notcoin and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 11
+        }
+    },
+    {
+        "jettonVolumeStringAll": "30176.8358596593",
+        "jettonLiqStringAll": "472181.7846",
+        "jettonFDVStringAll": "26714424",
+        "jettonSupplyAll": "75383816096",
+        "jettonVolume": "30.2к",
+        "jettonLiq": "472к",
+        "jettonFDV": "26.7м",
+        "jettonPrice": "0.03008",
+        "jettonH24": "-5.19",
+        "jettonCreated": "2024-06-01T14:03:23Z",
+        "jettonAddress": "EQAQn04ii6wBvw7uA7fwBsRYrqvrBGmaso87-y-mHe2bBLe5",
+        "jettonName": "SP / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/HkQ85VTuSMrchbs4-V4mUxB5htj-GIaDxHw3SFk8nzY/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MTA5ZjRlMjI4YmFjMDFiZjBlZWUwM2I3ZjAwNmM0NThhZWFiZWIwNDY5OWFiMjhmM2JmYjJmYTYxZGVkOWIwNC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "75383816096",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:109f4e228bac01bf0eee03b7f006c458aeabeb04699ab28f3bfb2fa61ded9b04",
+                "name": "LP Token for SP-TON",
+                "symbol": "SP-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/HkQ85VTuSMrchbs4-V4mUxB5htj-GIaDxHw3SFk8nzY/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MTA5ZjRlMjI4YmFjMDFiZjBlZWUwM2I3ZjAwNmM0NThhZWFiZWIwNDY5OWFiMjhmM2JmYjJmYTYxZGVkOWIwNC5wbmc.webp",
+                "description": "Liquidity pool token for Spintria and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 18
+        }
+    },
+    {
+        "jettonVolumeStringAll": "64077.7698574854",
+        "jettonLiqStringAll": "70937.7735",
+        "jettonFDVStringAll": "1201733",
+        "jettonSupplyAll": "257522665726",
+        "jettonVolume": "64.1к",
+        "jettonLiq": "70.9к",
+        "jettonFDV": "1.2м",
+        "jettonPrice": "0.00121",
+        "jettonH24": "8.24",
+        "jettonCreated": "2024-04-11T17:23:13Z",
+        "jettonAddress": "EQCO9NDT4Il25_4ZpHIOgMAUbRJvpsI9pLzqhD8X7eTVB7X_",
+        "jettonName": "UTYA / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/Idoigcrd8lj7Wg_SpHqQandABRa7B8P0le3lWHWI7BA/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6OGVmNGQwZDNlMDg5NzZlN2ZlMTlhNDcyMGU4MGMwMTQ2ZDEyNmZhNmMyM2RhNGJjZWE4NDNmMTdlZGU0ZDUwNy5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "257522665726",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:8ef4d0d3e08976e7fe19a4720e80c0146d126fa6c23da4bcea843f17ede4d507",
+                "name": "LP Token for UTYA-TON",
+                "symbol": "UTYA-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/Idoigcrd8lj7Wg_SpHqQandABRa7B8P0le3lWHWI7BA/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6OGVmNGQwZDNlMDg5NzZlN2ZlMTlhNDcyMGU4MGMwMTQ2ZDEyNmZhNmMyM2RhNGJjZWE4NDNmMTdlZGU0ZDUwNy5wbmc.webp",
+                "description": "Liquidity pool token for Utya and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 15
+        }
+    },
+    {
+        "jettonVolumeStringAll": "3707.8136200211",
+        "jettonLiqStringAll": "11711.7815",
+        "jettonFDVStringAll": "18609.63",
+        "jettonSupplyAll": "545896864338813",
+        "jettonVolume": "3.71к",
+        "jettonLiq": "11.7к",
+        "jettonFDV": "18.6к",
+        "jettonPrice": "0.00001",
+        "jettonH24": "-9.68",
+        "jettonCreated": "2024-11-21T05:23:06Z",
+        "jettonAddress": "EQD7DUW_E1KKUG4-cf7O2FcddfSa6fmlkSu6VPe4muAnBvz8",
+        "jettonName": "TRUMP / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/Eay_2_KG-VoQnN94GlN0JOfTtSDa1ZANSWSCJaDVRG8/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZmIwZDQ1YmYxMzUyOGE1MDZlM2U3MWZlY2VkODU3MWQ3NWY0OWFlOWY5YTU5MTJiYmE1NGY3Yjg5YWUwMjcwNi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545896864338813",
+            "admin": {
+                "address": "0:d0ea3e77ab6d47b99b70ea87259bbcf82d4d9c1ba4b638abe9492307e78f1dee",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:fb0d45bf13528a506e3e71feced8571d75f49ae9f9a5912bba54f7b89ae02706",
+                "name": "LP Token for TRUMP-pTON",
+                "symbol": "TRUMP-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/Eay_2_KG-VoQnN94GlN0JOfTtSDa1ZANSWSCJaDVRG8/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZmIwZDQ1YmYxMzUyOGE1MDZlM2U3MWZlY2VkODU3MWQ3NWY0OWFlOWY5YTU5MTJiYmE1NGY3Yjg5YWUwMjcwNi5wbmc.webp",
+                "description": "Liquidity pool token for Donald John Trump and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 2
+        }
+    },
+    {
+        "jettonVolumeStringAll": "8210.0425416679",
+        "jettonLiqStringAll": "89907.0487",
+        "jettonFDVStringAll": "1357979",
+        "jettonSupplyAll": "399612120",
+        "jettonVolume": "8.21к",
+        "jettonLiq": "89.9к",
+        "jettonFDV": "1.36м",
+        "jettonPrice": "1.01703",
+        "jettonH24": "-2.8",
+        "jettonCreated": "2023-11-20T03:07:14Z",
+        "jettonAddress": "EQAKleHU6-eGDQUfi4YXMNve4UQP0RGAIRkU4AiRRlgDUbaM",
+        "jettonName": "jUSDT / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/NNEKANmN-5Q6Oj3nXvtFlmzDhuwxr1YvSS40O61Y6CY/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MGE5NWUxZDRlYmU3ODYwZDA1MWY4Yjg2MTczMGRiZGVlMTQ0MGZkMTExODAyMTE5MTRlMDA4OTE0NjU4MDM1MS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "399612120",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:0a95e1d4ebe7860d051f8b861730dbdee1440fd11180211914e0089146580351",
+                "name": "LP Token for jUSDT-TON",
+                "symbol": "jUSDT-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/NNEKANmN-5Q6Oj3nXvtFlmzDhuwxr1YvSS40O61Y6CY/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MGE5NWUxZDRlYmU3ODYwZDA1MWY4Yjg2MTczMGRiZGVlMTQ0MGZkMTExODAyMTE5MTRlMDA4OTE0NjU4MDM1MS5wbmc.webp",
+                "description": "Liquidity pool token for Tether USD and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 171
+        }
+    },
+    {
+        "jettonVolumeStringAll": "19948.1138506858",
+        "jettonLiqStringAll": "24107.2761",
+        "jettonFDVStringAll": "81781.86",
+        "jettonSupplyAll": "1103889615",
+        "jettonVolume": "19.9к",
+        "jettonLiq": "24.1к",
+        "jettonFDV": "81.8к",
+        "jettonPrice": "13.6303",
+        "jettonH24": "50.76",
+        "jettonCreated": "2024-03-24T22:43:05Z",
+        "jettonAddress": "EQDxRRttnFMh5G_vocPa--hl5Z8Ataanb5xVZfvRj92KnK1Q",
+        "jettonName": "PIZZA / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/hNYEdveHpWULMsjMSaEWlTRGjdlwBHHW946NGZArZf4/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZjE0NTFiNmQ5YzUzMjFlNDZmZWZhMWMzZGFmYmU4NjVlNTlmMDBiNWE2YTc2ZjljNTU2NWZiZDE4ZmRkOGE5Yy5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "1103889615",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:f1451b6d9c5321e46fefa1c3dafbe865e59f00b5a6a76f9c5565fbd18fdd8a9c",
+                "name": "LP Token for PIZZA-TON",
+                "symbol": "PIZZA-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/hNYEdveHpWULMsjMSaEWlTRGjdlwBHHW946NGZArZf4/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZjE0NTFiNmQ5YzUzMjFlNDZmZWZhMWMzZGFmYmU4NjVlNTlmMDBiNWE2YTc2ZjljNTU2NWZiZDE4ZmRkOGE5Yy5wbmc.webp",
+                "description": "Liquidity pool token for Pizza Gram and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 5
+        }
+    },
+    {
+        "jettonVolumeStringAll": "26738.2003202668",
+        "jettonLiqStringAll": "146400.6641",
+        "jettonFDVStringAll": "3841370",
+        "jettonSupplyAll": "11995620563",
+        "jettonVolume": "26.7к",
+        "jettonLiq": "146к",
+        "jettonFDV": "3.84м",
+        "jettonPrice": "5.89926",
+        "jettonH24": "-4.19",
+        "jettonCreated": "2024-04-17T10:33:21Z",
+        "jettonAddress": "EQDjmQDt12Ys1-gyKZskDSIDAVQaciI3cIUpk46LCWtnKpGF",
+        "jettonName": "hTON / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/ZwbTd80hrwZ8hYHEcS05JD-cIA_cJpG7Lo-62kr1zJs/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZTM5OTAwZWRkNzY2MmNkN2U4MzIyOTliMjQwZDIyMDMwMTU0MWE3MjIyMzc3MDg1Mjk5MzhlOGIwOTZiNjcyYS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "11995620563",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:e39900edd7662cd7e832299b240d220301541a722237708529938e8b096b672a",
+                "name": "LP Token for hTON-TON",
+                "symbol": "hTON-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/ZwbTd80hrwZ8hYHEcS05JD-cIA_cJpG7Lo-62kr1zJs/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZTM5OTAwZWRkNzY2MmNkN2U4MzIyOTliMjQwZDIyMDMwMTU0MWE3MjIyMzc3MDg1Mjk5MzhlOGIwOTZiNjcyYS5wbmc.webp",
+                "description": "Liquidity pool token for Hipo Staked TON and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 38
+        }
+    },
+    {
+        "jettonVolumeStringAll": "64856.7029214608",
+        "jettonLiqStringAll": "2293259.6721",
+        "jettonFDVStringAll": "48599854",
+        "jettonSupplyAll": "633423758440926",
+        "jettonVolume": "64.9к",
+        "jettonLiq": "2.29м",
+        "jettonFDV": "48.6м",
+        "jettonPrice": "0.52900",
+        "jettonH24": "-4.84",
+        "jettonCreated": "2024-10-16T11:23:12Z",
+        "jettonAddress": "EQD_Xx-iQR0z3GJozQt0dE1ybgwBFFyfT5yehnwOJE3kkCM0",
+        "jettonName": "JETTON / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/x5N8g1i_7h4HKVKENgHouUOUlbTDAJQcX06qmztmKuc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZmY1ZjFmYTI0MTFkMzNkYzYyNjhjZDBiNzQ3NDRkNzI2ZTBjMDExNDVjOWY0ZjljOWU4NjdjMGUyNDRkZTQ5MC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "633423758440926",
+            "admin": {
+                "address": "0:e1e681cfbdf4703eed9b3910460a82c43b859064a2f87e4e430f583275e346f6",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:ff5f1fa2411d33dc6268cd0b74744d726e0c01145c9f4f9c9e867c0e244de490",
+                "name": "LP Token for pTON-JETTON",
+                "symbol": "pTON-JETTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/x5N8g1i_7h4HKVKENgHouUOUlbTDAJQcX06qmztmKuc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZmY1ZjFmYTI0MTFkMzNkYzYyNjhjZDBiNzQ3NDRkNzI2ZTBjMDExNDVjOWY0ZjljOWU4NjdjMGUyNDRkZTQ5MC5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and JetTon on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 10
+        }
+    },
+    {
+        "jettonVolumeStringAll": "51603.2946772244",
+        "jettonLiqStringAll": "536465.896",
+        "jettonFDVStringAll": "278221471",
+        "jettonSupplyAll": "41554980987",
+        "jettonVolume": "51.6к",
+        "jettonLiq": "536к",
+        "jettonFDV": "278м",
+        "jettonPrice": "6.39103",
+        "jettonH24": "-3.64",
+        "jettonCreated": "2023-11-20T03:07:19Z",
+        "jettonAddress": "EQC_OxV6MQ6csZXNk2Zu6jMrsGRI6m4YRzL2McKaPCYmNk6l",
+        "jettonName": "tsTON / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/FK6uhhhOjdTIWF2AU2NcEQkx97x-KPw5ZcBBtuqT_kQ/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YmYzYjE1N2EzMTBlOWNiMTk1Y2Q5MzY2NmVlYTMzMmJiMDY0NDhlYTZlMTg0NzMyZjYzMWMyOWEzYzI2MjYzNi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "41554980987",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:bf3b157a310e9cb195cd93666eea332bb06448ea6e184732f631c29a3c262636",
+                "name": "LP Token for TON-tsTON",
+                "symbol": "TON-tsTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/FK6uhhhOjdTIWF2AU2NcEQkx97x-KPw5ZcBBtuqT_kQ/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YmYzYjE1N2EzMTBlOWNiMTk1Y2Q5MzY2NmVlYTMzMmJiMDY0NDhlYTZlMTg0NzMyZjYzMWMyOWEzYzI2MjYzNi5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and Tonstakers TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 401
+        }
+    },
+    {
+        "jettonVolumeStringAll": "8506.5179433706",
+        "jettonLiqStringAll": "18460.4878",
+        "jettonFDVStringAll": "43852.17",
+        "jettonSupplyAll": "545763685129928",
+        "jettonVolume": "8.51к",
+        "jettonLiq": "18.5к",
+        "jettonFDV": "43.9к",
+        "jettonPrice": "0.00004",
+        "jettonH24": "43.05",
+        "jettonCreated": "2024-11-23T07:23:08Z",
+        "jettonAddress": "EQDWcw3UOKv906RbKRtdgEYjQcdrTnvtlDNgGAP9UV2D1ISA",
+        "jettonName": "COSA / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/cimRcuoQAJSHYa1pgSsd4vGt0X9gri8d0y760XkK-Xc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZDY3MzBkZDQzOGFiZmRkM2E0NWIyOTFiNWQ4MDQ2MjM0MWM3NmI0ZTdiZWQ5NDMzNjAxODAzZmQ1MTVkODNkNC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545763685129928",
+            "admin": {
+                "address": "0:1061b9dbd4418ad166fc9a4def116e2f6c74f2bfb70e71f2653d643ceffebfa9",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:d6730dd438abfdd3a45b291b5d80462341c76b4e7bed9433601803fd515d83d4",
+                "name": "LP Token for pTON-COSA",
+                "symbol": "pTON-COSA LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/cimRcuoQAJSHYa1pgSsd4vGt0X9gri8d0y760XkK-Xc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZDY3MzBkZDQzOGFiZmRkM2E0NWIyOTFiNWQ4MDQ2MjM0MWM3NmI0ZTdiZWQ5NDMzNjAxODAzZmQ1MTVkODNkNC5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and COSA NOSTRA on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "3929.5033539931",
+        "jettonLiqStringAll": "5664.434",
+        "jettonFDVStringAll": "4404.13",
+        "jettonSupplyAll": "545763685182698",
+        "jettonVolume": "3.93к",
+        "jettonLiq": "5.66к",
+        "jettonFDV": "4.4к",
+        "jettonPrice": "0.00000",
+        "jettonH24": "-57.93",
+        "jettonCreated": "2024-11-24T10:43:10Z",
+        "jettonAddress": "EQCpTjv9lsTSzQ3H8mHvae4At8W3IsMf5n8H3virmM8GBF4t",
+        "jettonName": "GRAPH / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/nyeECnyq0uqmgb9ZbgJP92D7NzdlCD_8BUYom3WEQlM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YTk0ZTNiZmQ5NmM0ZDJjZDBkYzdmMjYxZWY2OWVlMDBiN2M1YjcyMmMzMWZlNjdmMDdkZWY4YWI5OGNmMDYwNC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545763685182698",
+            "admin": {
+                "address": "0:92e1411ae546892f33b2c8a89ea90390d8ff4cfbb917a643b91e73f706fdb9d1",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:a94e3bfd96c4d2cd0dc7f261ef69ee00b7c5b722c31fe67f07def8ab98cf0604",
+                "name": "LP Token for GRAPH-pTON",
+                "symbol": "GRAPH-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/nyeECnyq0uqmgb9ZbgJP92D7NzdlCD_8BUYom3WEQlM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YTk0ZTNiZmQ5NmM0ZDJjZDBkYzdmMjYxZWY2OWVlMDBiN2M1YjcyMmMzMWZlNjdmMDdkZWY4YWI5OGNmMDYwNC5wbmc.webp",
+                "description": "Liquidity pool token for Graph PUMP and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "12911.0835506003",
+        "jettonLiqStringAll": "14312.4059",
+        "jettonFDVStringAll": "24314.52",
+        "jettonSupplyAll": "558351489223162",
+        "jettonVolume": "12.9к",
+        "jettonLiq": "14.3к",
+        "jettonFDV": "24.3к",
+        "jettonPrice": "0.00002",
+        "jettonH24": "-16.31",
+        "jettonCreated": "2024-11-21T15:43:10Z",
+        "jettonAddress": "EQAVHfbS04Wd1tppR_w-w2oH8cvCVqGzFzRcx5QlfFqoQZoI",
+        "jettonName": "KG / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/elNMHXLWu3KOWHcHaIGihMZjswWqZN38GWLWmEEwIAg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MTUxZGY2ZDJkMzg1OWRkNmRhNjk0N2ZjM2VjMzZhMDdmMWNiYzI1NmExYjMxNzM0NWNjNzk0MjU3YzVhYTg0MS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "558351489223162",
+            "admin": {
+                "address": "0:e1e681cfbdf4703eed9b3910460a82c43b859064a2f87e4e430f583275e346f6",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:151df6d2d3859dd6da6947fc3ec36a07f1cbc256a1b317345cc794257c5aa841",
+                "name": "LP Token for pTON-KG",
+                "symbol": "pTON-KG LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/elNMHXLWu3KOWHcHaIGihMZjswWqZN38GWLWmEEwIAg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MTUxZGY2ZDJkMzg1OWRkNmRhNjk0N2ZjM2VjMzZhMDdmMWNiYzI1NmExYjMxNzM0NWNjNzk0MjU3YzVhYTg0MS5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and Kilogram on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 2
+        }
+    },
+    {
+        "jettonVolumeStringAll": "547.4262265132",
+        "jettonLiqStringAll": "19223.1715",
+        "jettonFDVStringAll": "49421.87",
+        "jettonSupplyAll": "545763685126813",
+        "jettonVolume": "547.4262265132",
+        "jettonLiq": "19.2к",
+        "jettonFDV": "49.4к",
+        "jettonPrice": "0.00004",
+        "jettonH24": "-15.37",
+        "jettonCreated": "2024-11-15T01:13:11Z",
+        "jettonAddress": "EQAJ6W54fy6JLOtLgW7SQ4M8H0OT4nLU_h2hcaglEpsVr3yA",
+        "jettonName": "DBLUM / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/nukwBMNgdFVaPikOOk7y7lxk3vmR3WbNuE4nS_f5cvk/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MDllOTZlNzg3ZjJlODkyY2ViNGI4MTZlZDI0MzgzM2MxZjQzOTNlMjcyZDRmZTFkYTE3MWE4MjUxMjliMTVhZi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545763685126813",
+            "admin": {
+                "address": "0:e1e681cfbdf4703eed9b3910460a82c43b859064a2f87e4e430f583275e346f6",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:09e96e787f2e892ceb4b816ed243833c1f4393e272d4fe1da171a825129b15af",
+                "name": "LP Token for pTON-DBLUM",
+                "symbol": "pTON-DBLUM LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/nukwBMNgdFVaPikOOk7y7lxk3vmR3WbNuE4nS_f5cvk/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MDllOTZlNzg3ZjJlODkyY2ViNGI4MTZlZDI0MzgzM2MxZjQzOTNlMjcyZDRmZTFkYTE3MWE4MjUxMjliMTVhZi5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and DOGE BLUM on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "32385.3643054442",
+        "jettonLiqStringAll": "29906.5717",
+        "jettonFDVStringAll": "85939.31",
+        "jettonSupplyAll": "609241541579615",
+        "jettonVolume": "32.4к",
+        "jettonLiq": "29.9к",
+        "jettonFDV": "85.9к",
+        "jettonPrice": "0.00008",
+        "jettonH24": "-10.57",
+        "jettonCreated": "2024-11-14T21:13:07Z",
+        "jettonAddress": "EQCkbiUaQ_steHzTGSWEu9K9DGxxYqD7zfqdDmnqnGEJxFw5",
+        "jettonName": "PRTN / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/3FOUn-88epBQEpAZpmcttcGxUS6I6aR-CmoawIu2cv8/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YTQ2ZTI1MWE0M2ZiMmQ3ODdjZDMxOTI1ODRiYmQyYmQwYzZjNzE2MmEwZmJjZGZhOWQwZTY5ZWE5YzYxMDljNC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "609241541579615",
+            "admin": {
+                "address": "0:92e1411ae546892f33b2c8a89ea90390d8ff4cfbb917a643b91e73f706fdb9d1",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:a46e251a43fb2d787cd3192584bbd2bd0c6c7162a0fbcdfa9d0e69ea9c6109c4",
+                "name": "LP Token for pTON-PRTN",
+                "symbol": "pTON-PRTN LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/3FOUn-88epBQEpAZpmcttcGxUS6I6aR-CmoawIu2cv8/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YTQ2ZTI1MWE0M2ZiMmQ3ODdjZDMxOTI1ODRiYmQyYmQwYzZjNzE2MmEwZmJjZGZhOWQwZTY5ZWE5YzYxMDljNC5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and PROTON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 14
+        }
+    },
+    {
+        "jettonVolumeStringAll": "6052.0186685082",
+        "jettonLiqStringAll": "468119.3841",
+        "jettonFDVStringAll": "41656845",
+        "jettonSupplyAll": "89458746157",
+        "jettonVolume": "6.05к",
+        "jettonLiq": "468к",
+        "jettonFDV": "41.7м",
+        "jettonPrice": "0.83628",
+        "jettonH24": "-5.79",
+        "jettonCreated": "2023-11-20T03:07:19Z",
+        "jettonAddress": "EQARmtrqsIf8-lk9bH8ISV_UCsG8kS3iHzC7bV8ssQAi4pvw",
+        "jettonName": "PUNK / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/C8KItQ97tLnvFD-zW6fTm9XqXlsS7-nGnKw_sTfvK1g/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MTE5YWRhZWFiMDg3ZmNmYTU5M2Q2YzdmMDg0OTVmZDQwYWMxYmM5MTJkZTIxZjMwYmI2ZDVmMmNiMTAwMjJlMi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "89458746157",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:119adaeab087fcfa593d6c7f08495fd40ac1bc912de21f30bb6d5f2cb10022e2",
+                "name": "LP Token for PUNK-TON",
+                "symbol": "PUNK-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/C8KItQ97tLnvFD-zW6fTm9XqXlsS7-nGnKw_sTfvK1g/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MTE5YWRhZWFiMDg3ZmNmYTU5M2Q2YzdmMDg0OTVmZDQwYWMxYmM5MTJkZTIxZjMwYmI2ZDVmMmNiMTAwMjJlMi5wbmc.webp",
+                "description": "Liquidity pool token for $PUNK and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 290
+        }
+    },
+    {
+        "jettonVolumeStringAll": "6792.0462172303",
+        "jettonLiqStringAll": "13637.0265",
+        "jettonFDVStringAll": "24210.19",
+        "jettonSupplyAll": "546028601494065",
+        "jettonVolume": "6.79к",
+        "jettonLiq": "13.6к",
+        "jettonFDV": "24.2к",
+        "jettonPrice": "0.00002",
+        "jettonH24": "-43.63",
+        "jettonCreated": "2024-11-19T14:03:13Z",
+        "jettonAddress": "EQDjZwZQfnJ_bqxDqRpL5Slb_O5E4bKrk8KK7pN6EmOX8E7k",
+        "jettonName": "SMERKS / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/9zogBbOqLItJYXCCkJBix-sNfkE9izEqVmryzKgD3RM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZTM2NzA2NTA3ZTcyN2Y2ZWFjNDNhOTFhNGJlNTI5NWJmY2VlNDRlMWIyYWI5M2MyOGFlZTkzN2ExMjYzOTdmMC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "546028601494065",
+            "admin": {
+                "address": "0:b1d070c9fc3c4bc43490c9fb04a8723c46ceb99f282f766783f516bbad8d7939",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:e36706507e727f6eac43a91a4be5295bfcee44e1b2ab93c28aee937a126397f0",
+                "name": "LP Token for SMERKS-pTON",
+                "symbol": "SMERKS-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/9zogBbOqLItJYXCCkJBix-sNfkE9izEqVmryzKgD3RM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZTM2NzA2NTA3ZTcyN2Y2ZWFjNDNhOTFhNGJlNTI5NWJmY2VlNDRlMWIyYWI5M2MyOGFlZTkzN2ExMjYzOTdmMC5wbmc.webp",
+                "description": "Liquidity pool token for VLODMER SMERKS and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 2
+        }
+    },
+    {
+        "jettonVolumeStringAll": "16265.0828191397",
+        "jettonLiqStringAll": "1164464.623",
+        "jettonFDVStringAll": "4096518",
+        "jettonSupplyAll": "2565217205014",
+        "jettonVolume": "16.3к",
+        "jettonLiq": "1.16м",
+        "jettonFDV": "4.1м",
+        "jettonPrice": "0.00494",
+        "jettonH24": "-3.89",
+        "jettonCreated": "2024-04-04T00:03:08Z",
+        "jettonAddress": "EQAjeq_aW_fSP7XqoF15ZZ7zUYiWLqv6UccN-jJlliomy-B3",
+        "jettonName": "ANON / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/Ww3AcnQNTCDXm_-P2NH15Ovqp6QFr4FeFGmm88FFkFo/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MjM3YWFmZGE1YmY3ZDIzZmI1ZWFhMDVkNzk2NTllZjM1MTg4OTYyZWFiZmE1MWM3MGRmYTMyNjU5NjJhMjZjYi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "2565217205014",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:237aafda5bf7d23fb5eaa05d79659ef35188962eabfa51c70dfa3265962a26cb",
+                "name": "LP Token for ANON-TON",
+                "symbol": "ANON-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/Ww3AcnQNTCDXm_-P2NH15Ovqp6QFr4FeFGmm88FFkFo/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MjM3YWFmZGE1YmY3ZDIzZmI1ZWFhMDVkNzk2NTllZjM1MTg4OTYyZWFiZmE1MWM3MGRmYTMyNjU5NjJhMjZjYi5wbmc.webp",
+                "description": "Liquidity pool token for ANON and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 209
+        }
+    },
+    {
+        "jettonVolumeStringAll": "9048.9665488803",
+        "jettonLiqStringAll": "347275.2653",
+        "jettonFDVStringAll": "472988",
+        "jettonSupplyAll": "1557819362",
+        "jettonVolume": "9.05к",
+        "jettonLiq": "347к",
+        "jettonFDV": "473к",
+        "jettonPrice": "0.00473",
+        "jettonH24": "-3.57",
+        "jettonCreated": "2024-05-11T13:43:18Z",
+        "jettonAddress": "EQCpr6xnMEQWJvMydY5rfIx-seNUf4afNP1HxfH9eOMpSHBu",
+        "jettonName": "SHIT / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/n4Df7Kfqm9efzivBvLOsGIk2WV3ppw5ASYCmle0kcdY/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YTlhZmFjNjczMDQ0MTYyNmYzMzI3NThlNmI3YzhjN2ViMWUzNTQ3Zjg2OWYzNGZkNDdjNWYxZmQ3OGUzMjk0OC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "1557819362",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:a9afac6730441626f332758e6b7c8c7eb1e3547f869f34fd47c5f1fd78e32948",
+                "name": "LP Token for SHIT-TON",
+                "symbol": "SHIT-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/n4Df7Kfqm9efzivBvLOsGIk2WV3ppw5ASYCmle0kcdY/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YTlhZmFjNjczMDQ0MTYyNmYzMzI3NThlNmI3YzhjN2ViMWUzNTQ3Zjg2OWYzNGZkNDdjNWYxZmQ3OGUzMjk0OC5wbmc.webp",
+                "description": "Liquidity pool token for Shitcoin and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 79
+        }
+    },
+    {
+        "jettonVolumeStringAll": "12795.7906776129",
+        "jettonLiqStringAll": "28054.92",
+        "jettonFDVStringAll": "101687",
+        "jettonSupplyAll": "545763685129195",
+        "jettonVolume": "12.8к",
+        "jettonLiq": "28.1к",
+        "jettonFDV": "102к",
+        "jettonPrice": "0.00010",
+        "jettonH24": "6.66",
+        "jettonCreated": "2024-11-19T19:03:11Z",
+        "jettonAddress": "EQC7RSlo2rBXuHueJhcFlRPgINRzf_5uHYsEHGF7r5I9sgVW",
+        "jettonName": "ALIVE / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/H59JVNaysmZyYlEHD72ynfWMRLATdYN7ZnIUbMLCBTA/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YmI0NTI5NjhkYWIwNTdiODdiOWUyNjE3MDU5NTEzZTAyMGQ0NzM3ZmZlNmUxZDhiMDQxYzYxN2JhZjkyM2RiMi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545763685129195",
+            "admin": {
+                "address": "0:c03f27bb1c03c0025e165e9cf98ce09d85fd87f61f50924cd143ee8ae6eb22b9",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:bb452968dab057b87b9e2617059513e020d4737ffe6e1d8b041c617baf923db2",
+                "name": "LP Token for ALIVE-pTON",
+                "symbol": "ALIVE-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/H59JVNaysmZyYlEHD72ynfWMRLATdYN7ZnIUbMLCBTA/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YmI0NTI5NjhkYWIwNTdiODdiOWUyNjE3MDU5NTEzZTAyMGQ0NzM3ZmZlNmUxZDhiMDQxYzYxN2JhZjkyM2RiMi5wbmc.webp",
+                "description": "Liquidity pool token for AliveBoard and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "11467.1293398983",
+        "jettonLiqStringAll": "163985.9373",
+        "jettonFDVStringAll": "1707183",
+        "jettonSupplyAll": "64557821662",
+        "jettonVolume": "11.5к",
+        "jettonLiq": "164к",
+        "jettonFDV": "1.71м",
+        "jettonPrice": "0.17109",
+        "jettonH24": "-9.73",
+        "jettonCreated": "2024-04-08T06:33:09Z",
+        "jettonAddress": "EQC5_Js0m5eO2BF4gAppApvOao9idv7uDALfHDfbMDO67b9Y",
+        "jettonName": "$RECA / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/C48g6bhgW6hJUunBTAN8tHuEh8YQ-W4-pnCNFl42NDc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YjlmYzliMzQ5Yjk3OGVkODExNzg4MDBhNjkwMjliY2U2YThmNjI3NmZlZWUwYzAyZGYxYzM3ZGIzMDMzYmFlZC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "64557821662",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:b9fc9b349b978ed81178800a69029bce6a8f6276feee0c02df1c37db3033baed",
+                "name": "LP Token for $RECA-TON",
+                "symbol": "$RECA-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/C48g6bhgW6hJUunBTAN8tHuEh8YQ-W4-pnCNFl42NDc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YjlmYzliMzQ5Yjk3OGVkODExNzg4MDBhNjkwMjliY2U2YThmNjI3NmZlZWUwYzAyZGYxYzM3ZGIzMDMzYmFlZC5wbmc.webp",
+                "description": "Liquidity pool token for The Resistance Cat and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 109
+        }
+    },
+    {
+        "jettonVolumeStringAll": "20065.5446097347",
+        "jettonLiqStringAll": "126126.6301",
+        "jettonFDVStringAll": "361440",
+        "jettonSupplyAll": "3834821752",
+        "jettonVolume": "20.1к",
+        "jettonLiq": "126к",
+        "jettonFDV": "361к",
+        "jettonPrice": "0.00363",
+        "jettonH24": "13.4",
+        "jettonCreated": "2024-04-23T18:03:11Z",
+        "jettonAddress": "EQBb8kl4N3C0xr_U00Tc84Ipm0juApDUZlW0F0SbrqXJXdjY",
+        "jettonName": "KAKAXA / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/l2zVt6KRtSh15lVNo75IOAmsrwxIkmhbpxg4Awxmxyg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NWJmMjQ5NzgzNzcwYjRjNmJmZDRkMzQ0ZGNmMzgyMjk5YjQ4ZWUwMjkwZDQ2NjU1YjQxNzQ0OWJhZWE1Yzk1ZC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "3834821752",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:5bf249783770b4c6bfd4d344dcf382299b48ee0290d46655b417449baea5c95d",
+                "name": "LP Token for KAKAXA-TON",
+                "symbol": "KAKAXA-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/l2zVt6KRtSh15lVNo75IOAmsrwxIkmhbpxg4Awxmxyg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NWJmMjQ5NzgzNzcwYjRjNmJmZDRkMzQ0ZGNmMzgyMjk5YjQ4ZWUwMjkwZDQ2NjU1YjQxNzQ0OWJhZWE1Yzk1ZC5wbmc.webp",
+                "description": "Liquidity pool token for KAKAXA and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 35
+        }
+    },
+    {
+        "jettonVolumeStringAll": "2224.8740115629",
+        "jettonLiqStringAll": "32180.982",
+        "jettonFDVStringAll": "31919172",
+        "jettonSupplyAll": "33370713350278",
+        "jettonVolume": "2.22к",
+        "jettonLiq": "32.2к",
+        "jettonFDV": "31.9м",
+        "jettonPrice": "0.03191",
+        "jettonH24": "23.92",
+        "jettonCreated": "2024-11-13T09:23:06Z",
+        "jettonAddress": "EQBmD8Ye8IkGWFxp3EqufPJJasrbTqOHMkKJVatokvm5QihW",
+        "jettonName": "TONARX / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/Y1Esgn_7109kTKY7X_OiCq_OfzjVV1f2ycthW42XbXw/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NjYwZmM2MWVmMDg5MDY1ODVjNjlkYzRhYWU3Y2YyNDk2YWNhZGI0ZWEzODczMjQyODk1NWFiNjg5MmY5Yjk0Mi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "33370713350278",
+            "admin": {
+                "address": "0:720032f945ad9d95dacc48172d81f4a6d97d96d4feb53555b64580dbf1e24d24",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:660fc61ef08906585c69dc4aae7cf2496acadb4ea38732428955ab6892f9b942",
+                "name": "LP Token for pTON-TONARX",
+                "symbol": "pTON-TONARX LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/Y1Esgn_7109kTKY7X_OiCq_OfzjVV1f2ycthW42XbXw/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NjYwZmM2MWVmMDg5MDY1ODVjNjlkYzRhYWU3Y2YyNDk2YWNhZGI0ZWEzODczMjQyODk1NWFiNjg5MmY5Yjk0Mi5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and Tonarx on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "1463.5900679954",
+        "jettonLiqStringAll": "77855.1419",
+        "jettonFDVStringAll": "64110.10",
+        "jettonSupplyAll": "1940803666080851",
+        "jettonVolume": "1.46к",
+        "jettonLiq": "77.9к",
+        "jettonFDV": "64.1к",
+        "jettonPrice": "0.00000",
+        "jettonH24": "-5.8",
+        "jettonCreated": "2024-04-04T18:13:07Z",
+        "jettonAddress": "EQC0_AL1-NERHKjTJKGYevQ77DsrmmDLkxt6fWFVjwwy5fmx",
+        "jettonName": "Shiba / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/dk_zrCGhxoWR-NMh48OZAi2O3P5FOjAp07w6iDUTVBY/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YjRmYzAyZjVmOGQxMTExY2E4ZDMyNGExOTg3YWY0M2JlYzNiMmI5YTYwY2I5MzFiN2E3ZDYxNTU4ZjBjMzJlNS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "1940803666080851",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:b4fc02f5f8d1111ca8d324a1987af43bec3b2b9a60cb931b7a7d61558f0c32e5",
+                "name": "LP Token for TON-Shiba",
+                "symbol": "TON-Shiba LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/dk_zrCGhxoWR-NMh48OZAi2O3P5FOjAp07w6iDUTVBY/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YjRmYzAyZjVmOGQxMTExY2E4ZDMyNGExOTg3YWY0M2JlYzNiMmI5YTYwY2I5MzFiN2E3ZDYxNTU4ZjBjMzJlNS5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and Shiba Inu Ton on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 2
+        }
+    },
+    {
+        "jettonVolumeStringAll": "1103.1155054766",
+        "jettonLiqStringAll": "7582.1086",
+        "jettonFDVStringAll": "6948.48",
+        "jettonSupplyAll": "545763685191677",
+        "jettonVolume": "1.1к",
+        "jettonLiq": "7.58к",
+        "jettonFDV": "6.95к",
+        "jettonPrice": "0.00000",
+        "jettonH24": "-17.94",
+        "jettonCreated": "2024-11-17T18:13:05Z",
+        "jettonAddress": "EQD8KgscMpG9arMp78a_YWp4RSFJHI_cAtGDJTPWjXjl8GQx",
+        "jettonName": "SHEGLOV / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/KaY913oVx0GW6HdoBqsZ4aVR55mVbinEIH2-j8b4VcY/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZmMyYTBiMWMzMjkxYmQ2YWIzMjllZmM2YmY2MTZhNzg0NTIxNDkxYzhmZGMwMmQxODMyNTMzZDY4ZDc4ZTVmMC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545763685191677",
+            "admin": {
+                "address": "0:720032f945ad9d95dacc48172d81f4a6d97d96d4feb53555b64580dbf1e24d24",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:fc2a0b1c3291bd6ab329efc6bf616a784521491c8fdc02d1832533d68d78e5f0",
+                "name": "LP Token for SHEGLOV-pTON",
+                "symbol": "SHEGLOV-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/KaY913oVx0GW6HdoBqsZ4aVR55mVbinEIH2-j8b4VcY/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZmMyYTBiMWMzMjkxYmQ2YWIzMjllZmM2YmY2MTZhNzg0NTIxNDkxYzhmZGMwMmQxODMyNTMzZDY4ZDc4ZTVmMC5wbmc.webp",
+                "description": "Liquidity pool token for SHEGLOV and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "8195.8324364782",
+        "jettonLiqStringAll": "982818.3937",
+        "jettonFDVStringAll": "40632584",
+        "jettonSupplyAll": "215968812729128",
+        "jettonVolume": "8.2к",
+        "jettonLiq": "983к",
+        "jettonFDV": "40.6м",
+        "jettonPrice": "0.81571",
+        "jettonH24": "-6.77",
+        "jettonCreated": "2024-10-17T10:23:07Z",
+        "jettonAddress": "EQAdhsfQZ7kRAb2SWwORkITLys6fO1MVwJFfSrCpmY0ea872",
+        "jettonName": "PUNK / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/lDqgGxouIx9PPw1RxtRrCj3MQzDRAbCImAc1ULQtIUo/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MWQ4NmM3ZDA2N2I5MTEwMWJkOTI1YjAzOTE5MDg0Y2JjYWNlOWYzYjUzMTVjMDkxNWY0YWIwYTk5OThkMWU2Yi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "215968812729128",
+            "admin": {
+                "address": "0:1061b9dbd4418ad166fc9a4def116e2f6c74f2bfb70e71f2653d643ceffebfa9",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:1d86c7d067b91101bd925b03919084cbcace9f3b5315c0915f4ab0a9998d1e6b",
+                "name": "LP Token for pTON-PUNK",
+                "symbol": "pTON-PUNK LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/lDqgGxouIx9PPw1RxtRrCj3MQzDRAbCImAc1ULQtIUo/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MWQ4NmM3ZDA2N2I5MTEwMWJkOTI1YjAzOTE5MDg0Y2JjYWNlOWYzYjUzMTVjMDkxNWY0YWIwYTk5OThkMWU2Yi5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and $PUNK on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 16
+        }
+    },
+    {
+        "jettonVolumeStringAll": "9086.9724224554",
+        "jettonLiqStringAll": "49636.6514",
+        "jettonFDVStringAll": "101506",
+        "jettonSupplyAll": "984781795686381",
+        "jettonVolume": "9.09к",
+        "jettonLiq": "49.6к",
+        "jettonFDV": "102к",
+        "jettonPrice": "0.00010",
+        "jettonH24": "6.11",
+        "jettonCreated": "2024-11-20T08:33:09Z",
+        "jettonAddress": "EQAJn5Dq5ilVGofteo6uqRRpbCXltvxPQFx4BHvjU-ybe2pP",
+        "jettonName": "CS / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/ki09_XCKdHvwLYrm5o9pq_Cn2tMMRsw5mX0Eu3XMSZ0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MDk5ZjkwZWFlNjI5NTUxYTg3ZWQ3YThlYWVhOTE0Njk2YzI1ZTViNmZjNGY0MDVjNzgwNDdiZTM1M2VjOWI3Yi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "984781795686381",
+            "admin": {
+                "address": "0:320fb3bc0af55d47c00425cafde9f1c8d627c5ab6d52f1032dd5cce2e487c93f",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:099f90eae629551a87ed7a8eaea914696c25e5b6fc4f405c78047be353ec9b7b",
+                "name": "LP Token for pTON-CS",
+                "symbol": "pTON-CS LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/ki09_XCKdHvwLYrm5o9pq_Cn2tMMRsw5mX0Eu3XMSZ0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MDk5ZjkwZWFlNjI5NTUxYTg3ZWQ3YThlYWVhOTE0Njk2YzI1ZTViNmZjNGY0MDVjNzgwNDdiZTM1M2VjOWI3Yi5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and CryptoScope on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 4
+        }
+    },
+    {
+        "jettonVolumeStringAll": "740.2998079695",
+        "jettonLiqStringAll": "1617.7218",
+        "jettonFDVStringAll": "4829.27",
+        "jettonSupplyAll": "79743830025",
+        "jettonVolume": "740.2998079695",
+        "jettonLiq": "1.62к",
+        "jettonFDV": "4.83к",
+        "jettonPrice": "0.00001",
+        "jettonH24": "-56.53",
+        "jettonCreated": "2024-07-30T19:33:07Z",
+        "jettonAddress": "EQCzyhnq7PH-tRy8CHKxOsCLpBaTwM5XsAa-8sMH3WWAR1YG",
+        "jettonName": "DACIK / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/38U9FT7PSBbb0zklgHS1sO8VxYDL8ocbMkQGmha1IWU/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YjNjYTE5ZWFlY2YxZmViNTFjYmMwODcyYjEzYWMwOGJhNDE2OTNjMGNlNTdiMDA2YmVmMmMzMDdkZDY1ODA0Ny5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "79743830025",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:b3ca19eaecf1feb51cbc0872b13ac08ba41693c0ce57b006bef2c307dd658047",
+                "name": "LP Token for DACIK-TON",
+                "symbol": "DACIK-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/38U9FT7PSBbb0zklgHS1sO8VxYDL8ocbMkQGmha1IWU/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YjNjYTE5ZWFlY2YxZmViNTFjYmMwODcyYjEzYWMwOGJhNDE2OTNjMGNlNTdiMDA2YmVmMmMzMDdkZDY1ODA0Ny5wbmc.webp",
+                "description": "Liquidity pool token for DACIK and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 21
+        }
+    },
+    {
+        "jettonVolumeStringAll": "9086.9724224554",
+        "jettonLiqStringAll": "49636.6514",
+        "jettonFDVStringAll": "101506",
+        "jettonSupplyAll": "984781795686381",
+        "jettonVolume": "9.09к",
+        "jettonLiq": "49.6к",
+        "jettonFDV": "102к",
+        "jettonPrice": "0.00010",
+        "jettonH24": "6.11",
+        "jettonCreated": "2024-11-20T08:33:09Z",
+        "jettonAddress": "EQAJn5Dq5ilVGofteo6uqRRpbCXltvxPQFx4BHvjU-ybe2pP",
+        "jettonName": "CS / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/ki09_XCKdHvwLYrm5o9pq_Cn2tMMRsw5mX0Eu3XMSZ0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MDk5ZjkwZWFlNjI5NTUxYTg3ZWQ3YThlYWVhOTE0Njk2YzI1ZTViNmZjNGY0MDVjNzgwNDdiZTM1M2VjOWI3Yi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "984781795686381",
+            "admin": {
+                "address": "0:320fb3bc0af55d47c00425cafde9f1c8d627c5ab6d52f1032dd5cce2e487c93f",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:099f90eae629551a87ed7a8eaea914696c25e5b6fc4f405c78047be353ec9b7b",
+                "name": "LP Token for pTON-CS",
+                "symbol": "pTON-CS LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/ki09_XCKdHvwLYrm5o9pq_Cn2tMMRsw5mX0Eu3XMSZ0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MDk5ZjkwZWFlNjI5NTUxYTg3ZWQ3YThlYWVhOTE0Njk2YzI1ZTViNmZjNGY0MDVjNzgwNDdiZTM1M2VjOWI3Yi5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and CryptoScope on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 4
+        }
+    },
+    {
+        "jettonVolumeStringAll": "13987.5470104689",
+        "jettonLiqStringAll": "175668.9264",
+        "jettonFDVStringAll": "480881",
+        "jettonSupplyAll": "721110255092797",
+        "jettonVolume": "14к",
+        "jettonLiq": "176к",
+        "jettonFDV": "481к",
+        "jettonPrice": "0.00240",
+        "jettonH24": "-5.52",
+        "jettonCreated": "2024-11-05T07:03:08Z",
+        "jettonAddress": "EQD41g3cdtqK2K9cwog6b8_LmxNbQJVHW0u4EdEE9c_hpr2k",
+        "jettonName": "CATA / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/SbiHsXpEiTBLphqM6imqnUbsOjEXwBhGOmX-kw_QvJc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZjhkNjBkZGM3NmRhOGFkOGFmNWNjMjg4M2E2ZmNmY2I5YjEzNWI0MDk1NDc1YjRiYjgxMWQxMDRmNWNmZTFhNi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "721110255092797",
+            "admin": {
+                "address": "0:f1fbe8d453d3d4b4796d3d8657ef0773222d123d8dca67c9ef3acd2266f40977",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:f8d60ddc76da8ad8af5cc2883a6fcfcb9b135b4095475b4bb811d104f5cfe1a6",
+                "name": "LP Token for CATA-pTON",
+                "symbol": "CATA-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/SbiHsXpEiTBLphqM6imqnUbsOjEXwBhGOmX-kw_QvJc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZjhkNjBkZGM3NmRhOGFkOGFmNWNjMjg4M2E2ZmNmY2I5YjEzNWI0MDk1NDc1YjRiYjgxMWQxMDRmNWNmZTFhNi5wbmc.webp",
+                "description": "Liquidity pool token for CATA and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "5485.7021867402",
+        "jettonLiqStringAll": "17905.3077",
+        "jettonFDVStringAll": "40273.16",
+        "jettonSupplyAll": "545763685159611",
+        "jettonVolume": "5.49к",
+        "jettonLiq": "17.9к",
+        "jettonFDV": "40.3к",
+        "jettonPrice": "0.00004",
+        "jettonH24": "-3.8",
+        "jettonCreated": "2024-11-18T11:33:08Z",
+        "jettonAddress": "EQBsgz-NiwoOkbarnEcLlLgmb4wntMrMdMa6shy8JR0m1Y0l",
+        "jettonName": "LUDIK / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/I7iJr1kzE0-sce3WUgBP8EQzH4u8dGev94MVjVUlRHg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NmM4MzNmOGQ4YjBhMGU5MWI2YWI5YzQ3MGI5NGI4MjY2ZjhjMjdiNGNhY2M3NGM2YmFiMjFjYmMyNTFkMjZkNS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545763685159611",
+            "admin": {
+                "address": "0:c03f27bb1c03c0025e165e9cf98ce09d85fd87f61f50924cd143ee8ae6eb22b9",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:6c833f8d8b0a0e91b6ab9c470b94b8266f8c27b4cacc74c6bab21cbc251d26d5",
+                "name": "LP Token for LUDIK-pTON",
+                "symbol": "LUDIK-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/I7iJr1kzE0-sce3WUgBP8EQzH4u8dGev94MVjVUlRHg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NmM4MzNmOGQ4YjBhMGU5MWI2YWI5YzQ3MGI5NGI4MjY2ZjhjMjdiNGNhY2M3NGM2YmFiMjFjYmMyNTFkMjZkNS5wbmc.webp",
+                "description": "Liquidity pool token for LUDIK and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "16734.4751964951",
+        "jettonLiqStringAll": "78220.2445",
+        "jettonFDVStringAll": "35750350",
+        "jettonSupplyAll": "20888266145",
+        "jettonVolume": "16.7к",
+        "jettonLiq": "78.2к",
+        "jettonFDV": "35.8м",
+        "jettonPrice": "0.36147",
+        "jettonH24": "-0.02",
+        "jettonCreated": "2023-11-20T03:07:21Z",
+        "jettonAddress": "EQCmapEiLQO0uYEOmvDeXNR9i5R4kYVPEmyNJEcwSCTSUTTa",
+        "jettonName": "DFC / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/XR9IOBRgvy2iYe-zh5y7xPNciPrIsOTH1-O_5zCmFaM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YTY2YTkxMjIyZDAzYjRiOTgxMGU5YWYwZGU1Y2Q0N2Q4Yjk0Nzg5MTg1NGYxMjZjOGQyNDQ3MzA0ODI0ZDI1MS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "20888266145",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:a66a91222d03b4b9810e9af0de5cd47d8b947891854f126c8d2447304824d251",
+                "name": "LP Token for DFC-TON",
+                "symbol": "DFC-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/XR9IOBRgvy2iYe-zh5y7xPNciPrIsOTH1-O_5zCmFaM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YTY2YTkxMjIyZDAzYjRiOTgxMGU5YWYwZGU1Y2Q0N2Q4Yjk0Nzg5MTg1NGYxMjZjOGQyNDQ3MzA0ODI0ZDI1MS5wbmc.webp",
+                "description": "Liquidity pool token for DeFinder Capital and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 675
+        }
+    },
+    {
+        "jettonVolumeStringAll": "20354.0432576672",
+        "jettonLiqStringAll": "106870.4215",
+        "jettonFDVStringAll": "4200448",
+        "jettonSupplyAll": "74162270116120",
+        "jettonVolume": "20.4к",
+        "jettonLiq": "107к",
+        "jettonFDV": "4.2м",
+        "jettonPrice": "0.08400",
+        "jettonH24": "2.76",
+        "jettonCreated": "2024-10-17T10:33:12Z",
+        "jettonAddress": "EQDRsIMhEH4O2Q4OkopgmBprA9WwstiLcW0U61cudAlCdx7S",
+        "jettonName": "MY / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/FNHUwT_QIyaXtKCzWsd1fwoQH_hGv6Y35aRCJbEHnfg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZDFiMDgzMjExMDdlMGVkOTBlMGU5MjhhNjA5ODFhNmIwM2Q1YjBiMmQ4OGI3MTZkMTRlYjU3MmU3NDA5NDI3Ny5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "74162270116120",
+            "admin": {
+                "address": "0:d0ea3e77ab6d47b99b70ea87259bbcf82d4d9c1ba4b638abe9492307e78f1dee",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:d1b08321107e0ed90e0e928a60981a6b03d5b0b2d88b716d14eb572e74094277",
+                "name": "LP Token for MY-pTON",
+                "symbol": "MY-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/FNHUwT_QIyaXtKCzWsd1fwoQH_hGv6Y35aRCJbEHnfg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZDFiMDgzMjExMDdlMGVkOTBlMGU5MjhhNjA5ODFhNmIwM2Q1YjBiMmQ4OGI3MTZkMTRlYjU3MmU3NDA5NDI3Ny5wbmc.webp",
+                "description": "Liquidity pool token for MyTonWallet Coin and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 32
+        }
+    },
+    {
+        "jettonVolumeStringAll": "5629.9428663362",
+        "jettonLiqStringAll": "52604.0063",
+        "jettonFDVStringAll": "168197",
+        "jettonSupplyAll": "789995021526221",
+        "jettonVolume": "5.63к",
+        "jettonLiq": "52.6к",
+        "jettonFDV": "168к",
+        "jettonPrice": "0.00016",
+        "jettonH24": "-0.22",
+        "jettonCreated": "2024-11-12T11:33:12Z",
+        "jettonAddress": "EQA7GBZMmqE0PNhvv1m4eHrXzqy0SoEEe0myNDeWgPiBzI5D",
+        "jettonName": "ASTAHOV / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/xuFCj2xN4IdtQi-nrLxeLFFWKjIkIPPaO7W62axdUDM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6M2IxODE2NGM5YWExMzQzY2Q4NmZiZjU5Yjg3ODdhZDdjZWFjYjQ0YTgxMDQ3YjQ5YjIzNDM3OTY4MGY4ODFjYy5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "789995021526221",
+            "admin": {
+                "address": "0:091b9a7264f58489088c54975fedb0d18112f383a411e7ba8a791b0eacc3be9d",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:3b18164c9aa1343cd86fbf59b8787ad7ceacb44a81047b49b234379680f881cc",
+                "name": "LP Token for pTON-ASTAHOV",
+                "symbol": "pTON-ASTAHOV LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/xuFCj2xN4IdtQi-nrLxeLFFWKjIkIPPaO7W62axdUDM/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6M2IxODE2NGM5YWExMzQzY2Q4NmZiZjU5Yjg3ODdhZDdjZWFjYjQ0YTgxMDQ3YjQ5YjIzNDM3OTY4MGY4ODFjYy5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and SKLAD ASTAHOVA on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 45
+        }
+    },
+    {
+        "jettonVolumeStringAll": "2180.3695213528",
+        "jettonLiqStringAll": "14520.9322",
+        "jettonFDVStringAll": "48432.95",
+        "jettonSupplyAll": "79591775689",
+        "jettonVolume": "2.18к",
+        "jettonLiq": "14.5к",
+        "jettonFDV": "48.4к",
+        "jettonPrice": "0.00103",
+        "jettonH24": "-17.59",
+        "jettonCreated": "2024-05-29T19:03:16Z",
+        "jettonAddress": "EQAlzSqlOfodznq5NnCnrzmnPQZRPTKKBCJHXE1cL_X6NK0k",
+        "jettonName": "MAGA / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/edLcbaQf6m8wIgXsh9_ng2btrWHGcM-_mqn3fK_zn3U/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MjVjZDJhYTUzOWZhMWRjZTdhYjkzNjcwYTdhZjM5YTczZDA2NTEzZDMyOGEwNDIyNDc1YzRkNWMyZmY1ZmEzNC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "79591775689",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:25cd2aa539fa1dce7ab93670a7af39a73d06513d328a0422475c4d5c2ff5fa34",
+                "name": "LP Token for TON-MAGA",
+                "symbol": "TON-MAGA LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/edLcbaQf6m8wIgXsh9_ng2btrWHGcM-_mqn3fK_zn3U/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MjVjZDJhYTUzOWZhMWRjZTdhYjkzNjcwYTdhZjM5YTczZDA2NTEzZDMyOGEwNDIyNDc1YzRkNWMyZmY1ZmEzNC5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and TRUMP on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 2
+        }
+    },
+    {
+        "jettonVolumeStringAll": "2193.4108175591",
+        "jettonLiqStringAll": "8925.3635",
+        "jettonFDVStringAll": "10582.95",
+        "jettonSupplyAll": "545763685124248",
+        "jettonVolume": "2.19к",
+        "jettonLiq": "8.93к",
+        "jettonFDV": "10.6к",
+        "jettonPrice": "0.00001",
+        "jettonH24": "-18.76",
+        "jettonCreated": "2024-11-22T15:23:07Z",
+        "jettonAddress": "EQDEK8gIhUw1qfRtXhnK4mw1I3qScTmNFiRMjtHU1MYtmj3L",
+        "jettonName": "GLEB / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/bxgXeHYTI2lOBiT6m0ele0_ZYtaC-lEeQezli-xlj_A/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YzQyYmM4MDg4NTRjMzVhOWY0NmQ1ZTE5Y2FlMjZjMzUyMzdhOTI3MTM5OGQxNjI0NGM4ZWQxZDRkNGM2MmQ5YS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545763685124248",
+            "admin": {
+                "address": "0:834fd7424f9da975fb0b356d1eeaa3f94f7720abb338520ef6ce419880fd7bb6",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:c42bc808854c35a9f46d5e19cae26c35237a9271398d16244c8ed1d4d4c62d9a",
+                "name": "LP Token for GLEB-pTON",
+                "symbol": "GLEB-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/bxgXeHYTI2lOBiT6m0ele0_ZYtaC-lEeQezli-xlj_A/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YzQyYmM4MDg4NTRjMzVhOWY0NmQ1ZTE5Y2FlMjZjMzUyMzdhOTI3MTM5OGQxNjI0NGM4ZWQxZDRkNGM2MmQ5YS5wbmc.webp",
+                "description": "Liquidity pool token for Gleb Kostarev and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "4964.1454460323",
+        "jettonLiqStringAll": "12602.1138",
+        "jettonFDVStringAll": "214865",
+        "jettonSupplyAll": "7443046631",
+        "jettonVolume": "4.96к",
+        "jettonLiq": "12.6к",
+        "jettonFDV": "215к",
+        "jettonPrice": "0.08630",
+        "jettonH24": "-25.03",
+        "jettonCreated": "2024-01-10T20:53:01Z",
+        "jettonAddress": "EQCQYn1W68q_wx-S6owa0rRbryE77FOT-y_KgzKWmb5A6TKS",
+        "jettonName": "ARBUZ / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/dR_lXJ-YDP4sZpLT0FxvE7GxsoGqS1p_Jee8CMrOe2k/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6OTA2MjdkNTZlYmNhYmZjMzFmOTJlYThjMWFkMmI0NWJhZjIxM2JlYzUzOTNmYjJmY2E4MzMyOTY5OWJlNDBlOS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "7443046631",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:90627d56ebcabfc31f92ea8c1ad2b45baf213bec5393fb2fca83329699be40e9",
+                "name": "LP Token for ARBUZ-TON",
+                "symbol": "ARBUZ-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/dR_lXJ-YDP4sZpLT0FxvE7GxsoGqS1p_Jee8CMrOe2k/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6OTA2MjdkNTZlYmNhYmZjMzFmOTJlYThjMWFkMmI0NWJhZjIxM2JlYzUzOTNmYjJmY2E4MzMyOTY5OWJlNDBlOS5wbmc.webp",
+                "description": "Liquidity pool token for ARBUZ and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 160
+        }
+    },
+    {
+        "jettonVolumeStringAll": "8606.9863536397",
+        "jettonLiqStringAll": "3947.9623",
+        "jettonFDVStringAll": "2011.51",
+        "jettonSupplyAll": "545763685124981",
+        "jettonVolume": "8.61к",
+        "jettonLiq": "3.95к",
+        "jettonFDV": "2.01к",
+        "jettonPrice": "0.00000",
+        "jettonH24": "-95.34",
+        "jettonCreated": "2024-11-24T11:23:07Z",
+        "jettonAddress": "EQCwFrbXjn6RXjoFkZOjTu1qG5I5Kg2QkpT4P-9WFB_9c4rf",
+        "jettonName": "GRINCH / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/uuOPcRNEteuB3ADRs2e1Ors1TQuBsv9BjlB3B4TN8N0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YjAxNmI2ZDc4ZTdlOTE1ZTNhMDU5MTkzYTM0ZWVkNmExYjkyMzkyYTBkOTA5Mjk0ZjgzZmVmNTYxNDFmZmQ3My5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545763685124981",
+            "admin": {
+                "address": "0:b1d070c9fc3c4bc43490c9fb04a8723c46ceb99f282f766783f516bbad8d7939",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:b016b6d78e7e915e3a059193a34eed6a1b92392a0d909294f83fef56141ffd73",
+                "name": "LP Token for GRINCH-pTON",
+                "symbol": "GRINCH-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/uuOPcRNEteuB3ADRs2e1Ors1TQuBsv9BjlB3B4TN8N0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YjAxNmI2ZDc4ZTdlOTE1ZTNhMDU5MTkzYTM0ZWVkNmExYjkyMzkyYTBkOTA5Mjk0ZjgzZmVmNTYxNDFmZmQ3My5wbmc.webp",
+                "description": "Liquidity pool token for GRINCH and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "856.252275871",
+        "jettonLiqStringAll": "7497.858",
+        "jettonFDVStringAll": "6827.60",
+        "jettonSupplyAll": "545852873533216",
+        "jettonVolume": "856.252275871",
+        "jettonLiq": "7.5к",
+        "jettonFDV": "6.83к",
+        "jettonPrice": "0.00000",
+        "jettonH24": "-21.55",
+        "jettonCreated": "2024-11-19T10:13:11Z",
+        "jettonAddress": "EQAEqKTWrW43K__xX95FcHm5MIlSDR8LLh0jGRdoNkQBmIme",
+        "jettonName": "SOSI / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/BhDYUVGlUpBcXyRsyQQpzc0-V5ORAepNkBXbhTpSGwQ/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MDRhOGE0ZDZhZDZlMzcyYmZmZjE1ZmRlNDU3MDc5YjkzMDg5NTIwZDFmMGIyZTFkMjMxOTE3NjgzNjQ0MDE5OC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545852873533216",
+            "admin": {
+                "address": "0:92e1411ae546892f33b2c8a89ea90390d8ff4cfbb917a643b91e73f706fdb9d1",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:04a8a4d6ad6e372bfff15fde457079b93089520d1f0b2e1d2319176836440198",
+                "name": "LP Token for pTON-SOSI",
+                "symbol": "pTON-SOSI LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/BhDYUVGlUpBcXyRsyQQpzc0-V5ORAepNkBXbhTpSGwQ/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MDRhOGE0ZDZhZDZlMzcyYmZmZjE1ZmRlNDU3MDc5YjkzMDg5NTIwZDFmMGIyZTFkMjMxOTE3NjgzNjQ0MDE5OC5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and Sosisochnaya Gazeta on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 2
+        }
+    },
+    {
+        "jettonVolumeStringAll": "5032.6331742505",
+        "jettonLiqStringAll": "28551.1203",
+        "jettonFDVStringAll": "104830",
+        "jettonSupplyAll": "545763685159062",
+        "jettonVolume": "5.03к",
+        "jettonLiq": "28.6к",
+        "jettonFDV": "105к",
+        "jettonPrice": "0.00010",
+        "jettonH24": "-6.19",
+        "jettonCreated": "2024-11-13T18:13:11Z",
+        "jettonAddress": "EQAXHkQRXwrPD8joUGDP3cxK6emvhDVs3-fS9wi-St4tBaSU",
+        "jettonName": "BARK47 / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/yCqOSoVC7izQeMM7iqTkUq7MaZ2rx2-psYrw2bE43Cs/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MTcxZTQ0MTE1ZjBhY2YwZmM4ZTg1MDYwY2ZkZGNjNGFlOWU5YWY4NDM1NmNkZmU3ZDJmNzA4YmU0YWRlMmQwNS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545763685159062",
+            "admin": {
+                "address": "0:f1fbe8d453d3d4b4796d3d8657ef0773222d123d8dca67c9ef3acd2266f40977",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:171e44115f0acf0fc8e85060cfddcc4ae9e9af84356cdfe7d2f708be4ade2d05",
+                "name": "LP Token for BARK47-pTON",
+                "symbol": "BARK47-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/yCqOSoVC7izQeMM7iqTkUq7MaZ2rx2-psYrw2bE43Cs/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MTcxZTQ0MTE1ZjBhY2YwZmM4ZTg1MDYwY2ZkZGNjNGFlOWU5YWY4NDM1NmNkZmU3ZDJmNzA4YmU0YWRlMmQwNS5wbmc.webp",
+                "description": "Liquidity pool token for Mr. Bark President and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "1631.0300534403",
+        "jettonLiqStringAll": "12371.6199",
+        "jettonFDVStringAll": "20159.34",
+        "jettonSupplyAll": "545763685137441",
+        "jettonVolume": "1.63к",
+        "jettonLiq": "12.4к",
+        "jettonFDV": "20.2к",
+        "jettonPrice": "0.00002",
+        "jettonH24": "-16.69",
+        "jettonCreated": "2024-11-23T16:13:09Z",
+        "jettonAddress": "EQDNUiQk0f9HO1EIdofscnDu7mUKlTt_3PVFOGg5TuXptAOq",
+        "jettonName": "RWRD / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/3XXkz048nPBcOSC9419zi3-ofrfLASwiy2Lxc3oOEWc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6Y2Q1MjI0MjRkMWZmNDczYjUxMDg3Njg3ZWM3MjcwZWVlZTY1MGE5NTNiN2ZkY2Y1NDUzODY4Mzk0ZWU1ZTliNC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545763685137441",
+            "admin": {
+                "address": "0:f1fbe8d453d3d4b4796d3d8657ef0773222d123d8dca67c9ef3acd2266f40977",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:cd522424d1ff473b51087687ec7270eeee650a953b7fdcf5453868394ee5e9b4",
+                "name": "LP Token for pTON-RWRD",
+                "symbol": "pTON-RWRD LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/3XXkz048nPBcOSC9419zi3-ofrfLASwiy2Lxc3oOEWc/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6Y2Q1MjI0MjRkMWZmNDczYjUxMDg3Njg3ZWM3MjcwZWVlZTY1MGE5NTNiN2ZkY2Y1NDUzODY4Mzk0ZWU1ZTliNC5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and Reward on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "1317.1210023564",
+        "jettonLiqStringAll": "13646.1569",
+        "jettonFDVStringAll": "1944109",
+        "jettonSupplyAll": "274833066",
+        "jettonVolume": "1.32к",
+        "jettonLiq": "13.6к",
+        "jettonFDV": "1.94м",
+        "jettonPrice": "0.00100",
+        "jettonH24": "-4.1",
+        "jettonCreated": "2024-04-10T10:43:11Z",
+        "jettonAddress": "EQA4Y4PJcx8ytBB6OU0VjIlyHrWjNTktuvHRY1D9OEnsxBBK",
+        "jettonName": "PEPE / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/I-L9MZIzH-XOrXgJ9QXEYL1-JHbA7uwjqjzaSkZzkdk/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6Mzg2MzgzYzk3MzFmMzJiNDEwN2EzOTRkMTU4Yzg5NzIxZWI1YTMzNTM5MmRiYWYxZDE2MzUwZmQzODQ5ZWNjNC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "274833066",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:386383c9731f32b4107a394d158c89721eb5a335392dbaf1d16350fd3849ecc4",
+                "name": "LP Token for TON-PEPE",
+                "symbol": "TON-PEPE LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/I-L9MZIzH-XOrXgJ9QXEYL1-JHbA7uwjqjzaSkZzkdk/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6Mzg2MzgzYzk3MzFmMzJiNDEwN2EzOTRkMTU4Yzg5NzIxZWI1YTMzNTM5MmRiYWYxZDE2MzUwZmQzODQ5ZWNjNC5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and PEPE TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 50
+        }
+    },
+    {
+        "jettonVolumeStringAll": "3064.2526032177",
+        "jettonLiqStringAll": "4662.0267",
+        "jettonFDVStringAll": "2949.83",
+        "jettonSupplyAll": "545884885011771",
+        "jettonVolume": "3.06к",
+        "jettonLiq": "4.66к",
+        "jettonFDV": "2.95к",
+        "jettonPrice": "0.00000",
+        "jettonH24": "-45.39",
+        "jettonCreated": "2024-11-23T11:03:07Z",
+        "jettonAddress": "EQBdvVUF-o90KwCbym6pZkOgDorf8hM0effy-Rb6YQus-K5R",
+        "jettonName": "LUNA / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/Pv5owJZNpP6rocDpOkuw6dAwOQOj0SEF_mvfbigrrPg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NWRiZDU1MDVmYThmNzQyYjAwOWJjYTZlYTk2NjQzYTAwZThhZGZmMjEzMzQ3OWY3ZjJmOTE2ZmE2MTBiYWNmOC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545884885011771",
+            "admin": {
+                "address": "0:720032f945ad9d95dacc48172d81f4a6d97d96d4feb53555b64580dbf1e24d24",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:5dbd5505fa8f742b009bca6ea96643a00e8adff2133479f7f2f916fa610bacf8",
+                "name": "LP Token for pTON-LUNA",
+                "symbol": "pTON-LUNA LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/Pv5owJZNpP6rocDpOkuw6dAwOQOj0SEF_mvfbigrrPg/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NWRiZDU1MDVmYThmNzQyYjAwOWJjYTZlYTk2NjQzYTAwZThhZGZmMjEzMzQ3OWY3ZjJmOTE2ZmE2MTBiYWNmOC5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and LUNA ON TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 2
+        }
+    },
+    {
+        "jettonVolumeStringAll": "723.0391049263",
+        "jettonLiqStringAll": "1240.5358",
+        "jettonFDVStringAll": "136830",
+        "jettonSupplyAll": "96896133022",
+        "jettonVolume": "723.0391049263",
+        "jettonLiq": "1.24к",
+        "jettonFDV": "137к",
+        "jettonPrice": "6.26509",
+        "jettonH24": "26.02",
+        "jettonCreated": "2024-10-20T03:53:05Z",
+        "jettonAddress": "EQDz11Xhx2fR_v9ktxWjGPmXOa2QYYFnM67hbshRLndqmirY",
+        "jettonName": "Points / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/2EniVLD-ZAicYSigzbE0cFYvSk3eqOD-pew_Yi9hTCU/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZjNkNzU1ZTFjNzY3ZDFmZWZmNjRiNzE1YTMxOGY5OTczOWFkOTA2MTgxNjczM2FlZTE2ZWM4NTEyZTc3NmE5YS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "96896133022",
+            "admin": {
+                "address": "0:c03f27bb1c03c0025e165e9cf98ce09d85fd87f61f50924cd143ee8ae6eb22b9",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:f3d755e1c767d1feff64b715a318f99739ad9061816733aee16ec8512e776a9a",
+                "name": "LP Token for Points-pTON",
+                "symbol": "Points-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/2EniVLD-ZAicYSigzbE0cFYvSk3eqOD-pew_Yi9hTCU/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZjNkNzU1ZTFjNzY3ZDFmZWZmNjRiNzE1YTMxOGY5OTczOWFkOTA2MTgxNjczM2FlZTE2ZWM4NTEyZTc3NmE5YS5wbmc.webp",
+                "description": "Liquidity pool token for Mintless Points and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "3909.4456440274",
+        "jettonLiqStringAll": "46442.4036",
+        "jettonFDVStringAll": "3942382",
+        "jettonSupplyAll": "1510050206353368556",
+        "jettonVolume": "3.91к",
+        "jettonLiq": "46.4к",
+        "jettonFDV": "3.94м",
+        "jettonPrice": "0.03942",
+        "jettonH24": "-20.96",
+        "jettonCreated": "2024-11-15T09:13:08Z",
+        "jettonAddress": "EQAymIN_fC8HZsc900VhUdDWWZWxnISayBCee4iGesxmTE8o",
+        "jettonName": "MMPRO / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/2YK8SejIReBPoEM6rxcheQ8ancCnMlXLp61iz7tySh4/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MzI5ODgzN2Y3YzJmMDc2NmM3M2RkMzQ1NjE1MWQwZDY1OTk1YjE5Yzg0OWFjODEwOWU3Yjg4ODY3YWNjNjY0Yy5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "1510050206353368556",
+            "admin": {
+                "address": "0:320fb3bc0af55d47c00425cafde9f1c8d627c5ab6d52f1032dd5cce2e487c93f",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:3298837f7c2f0766c73dd3456151d0d65995b19c849ac8109e7b88867acc664c",
+                "name": "LP Token for pTON-MMPRO",
+                "symbol": "pTON-MMPRO LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/2YK8SejIReBPoEM6rxcheQ8ancCnMlXLp61iz7tySh4/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MzI5ODgzN2Y3YzJmMDc2NmM3M2RkMzQ1NjE1MWQwZDY1OTk1YjE5Yzg0OWFjODEwOWU3Yjg4ODY3YWNjNjY0Yy5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and MMPRO Token on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 15
+        }
+    },
+    {
+        "jettonVolumeStringAll": "4855.0216681649",
+        "jettonLiqStringAll": "25721.9551",
+        "jettonFDVStringAll": "85366.23",
+        "jettonSupplyAll": "545763685127546",
+        "jettonVolume": "4.86к",
+        "jettonLiq": "25.7к",
+        "jettonFDV": "85.4к",
+        "jettonPrice": "0.00008",
+        "jettonH24": "-22.53",
+        "jettonCreated": "2024-11-19T22:53:08Z",
+        "jettonAddress": "EQB8s_dnLNoNxFt_Gq8Di64pE8p7Nl85NeUGZDMuPw36d7Bf",
+        "jettonName": "LM / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/HDXaOv9We2GBRUO7zi9jWDlmH_sc2TwRVbUngOTVzpE/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6N2NiM2Y3NjcyY2RhMGRjNDViN2YxYWFmMDM4YmFlMjkxM2NhN2IzNjVmMzkzNWU1MDY2NDMzMmUzZjBkZmE3Ny5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545763685127546",
+            "admin": {
+                "address": "0:e1e681cfbdf4703eed9b3910460a82c43b859064a2f87e4e430f583275e346f6",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:7cb3f7672cda0dc45b7f1aaf038bae2913ca7b365f3935e50664332e3f0dfa77",
+                "name": "LP Token for pTON-LM",
+                "symbol": "pTON-LM LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/HDXaOv9We2GBRUO7zi9jWDlmH_sc2TwRVbUngOTVzpE/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6N2NiM2Y3NjcyY2RhMGRjNDViN2YxYWFmMDM4YmFlMjkxM2NhN2IzNjVmMzkzNWU1MDY2NDMzMmUzZjBkZmE3Ny5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and Lemon coin on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "4371.1799605891",
+        "jettonLiqStringAll": "13087.4402",
+        "jettonFDVStringAll": "22217.82",
+        "jettonSupplyAll": "545763685129745",
+        "jettonVolume": "4.37к",
+        "jettonLiq": "13.1к",
+        "jettonFDV": "22.2к",
+        "jettonPrice": "0.00002",
+        "jettonH24": "13.75",
+        "jettonCreated": "2024-11-20T09:53:06Z",
+        "jettonAddress": "EQAf_99-FQYYN-PS91GidbtQE8sM7v8RUcaddUpruuRRIrfd",
+        "jettonName": "TTH / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/hREnYDAWFQaJEsONW-edMUbWpzz3agFHCxahebI7ZFs/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MWZmZmRmN2UxNTA2MTgzN2UzZDJmNzUxYTI3NWJiNTAxM2NiMGNlZWZmMTE1MWM2OWQ3NTRhNmJiYWU0NTEyMi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545763685129745",
+            "admin": {
+                "address": "0:320fb3bc0af55d47c00425cafde9f1c8d627c5ab6d52f1032dd5cce2e487c93f",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:1fffdf7e15061837e3d2f751a275bb5013cb0ceeff1151c69d754a6bbae45122",
+                "name": "LP Token for pTON-TTH",
+                "symbol": "pTON-TTH LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/hREnYDAWFQaJEsONW-edMUbWpzz3agFHCxahebI7ZFs/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MWZmZmRmN2UxNTA2MTgzN2UzZDJmNzUxYTI3NWJiNTAxM2NiMGNlZWZmMTE1MWM2OWQ3NTRhNmJiYWU0NTEyMi5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and The Trading Hub on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "3033.3462644756",
+        "jettonLiqStringAll": "6218.8795",
+        "jettonFDVStringAll": "5567.94",
+        "jettonSupplyAll": "558294489449081",
+        "jettonVolume": "3.03к",
+        "jettonLiq": "6.22к",
+        "jettonFDV": "5.57к",
+        "jettonPrice": "0.00000",
+        "jettonH24": "-46.47",
+        "jettonCreated": "2024-11-22T00:23:08Z",
+        "jettonAddress": "EQAQypNiVPwdJZmWWk1FxHcbzmO7bGAVnuGdNCHNPSIN_Vdm",
+        "jettonName": "AKD / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/ILnzlhVxNzlF1IFJoD4jy_NKtXxlY1hvNfZh3qnsEl0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MTBjYTkzNjI1NGZjMWQyNTk5OTY1YTRkNDVjNDc3MWJjZTYzYmI2YzYwMTU5ZWUxOWQzNDIxY2QzZDIyMGRmZC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "558294489449081",
+            "admin": {
+                "address": "0:720032f945ad9d95dacc48172d81f4a6d97d96d4feb53555b64580dbf1e24d24",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:10ca936254fc1d2599965a4d45c4771bce63bb6c60159ee19d3421cd3d220dfd",
+                "name": "LP Token for pTON-AKD",
+                "symbol": "pTON-AKD LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/ILnzlhVxNzlF1IFJoD4jy_NKtXxlY1hvNfZh3qnsEl0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MTBjYTkzNjI1NGZjMWQyNTk5OTY1YTRkNDVjNDc3MWJjZTYzYmI2YzYwMTU5ZWUxOWQzNDIxY2QzZDIyMGRmZC5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and AKD TOPLULUĞU on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 3
+        }
+    },
+    {
+        "jettonVolumeStringAll": "12148.753451209",
+        "jettonLiqStringAll": "1087122.1387",
+        "jettonFDVStringAll": "2611950",
+        "jettonSupplyAll": "4694799352663",
+        "jettonVolume": "12.1к",
+        "jettonLiq": "1.09м",
+        "jettonFDV": "2.61м",
+        "jettonPrice": "0.00052",
+        "jettonH24": "-1.05",
+        "jettonCreated": "2024-04-13T16:03:11Z",
+        "jettonAddress": "EQAtrjFaHv-e2qOkGrOzTvB-xV1LHCpMgBPjxamfaqSzAJ92",
+        "jettonName": "MEM / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/oSHiNJxCyXyKz2PjRjSjuhCVARJ49TgV9xa9YwrpryE/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MmRhZTMxNWExZWZmOWVkYWEzYTQxYWIzYjM0ZWYwN2VjNTVkNGIxYzJhNGM4MDEzZTNjNWE5OWY2YWE0YjMwMC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "4694799352663",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:2dae315a1eff9edaa3a41ab3b34ef07ec55d4b1c2a4c8013e3c5a99f6aa4b300",
+                "name": "LP Token for TON-MEM",
+                "symbol": "TON-MEM LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/oSHiNJxCyXyKz2PjRjSjuhCVARJ49TgV9xa9YwrpryE/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MmRhZTMxNWExZWZmOWVkYWEzYTQxYWIzYjM0ZWYwN2VjNTVkNGIxYzJhNGM4MDEzZTNjNWE5OWY2YWE0YjMwMC5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and Not Meme on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 19
+        }
+    },
+    {
+        "jettonVolumeStringAll": "3776.5536946523",
+        "jettonLiqStringAll": "33504.1699",
+        "jettonFDVStringAll": "60485.10",
+        "jettonSupplyAll": "805941014338385",
+        "jettonVolume": "3.78к",
+        "jettonLiq": "33.5к",
+        "jettonFDV": "60.5к",
+        "jettonPrice": "0.00006",
+        "jettonH24": "-16.33",
+        "jettonCreated": "2024-10-25T18:33:09Z",
+        "jettonAddress": "EQBNZk9hA0jnf77xnSmBNMFplb1-uqFg3YXFzIdxMrVekXR2",
+        "jettonName": "SPNG / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/PV8HSTvbVi0W34ytD2-qdgqQqZESyNzORwURYxjV3qI/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NGQ2NjRmNjEwMzQ4ZTc3ZmJlZjE5ZDI5ODEzNGMxNjk5NWJkN2ViYWExNjBkZDg1YzVjYzg3NzEzMmI1NWU5MS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "805941014338385",
+            "admin": {
+                "address": "0:e1e681cfbdf4703eed9b3910460a82c43b859064a2f87e4e430f583275e346f6",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:4d664f610348e77fbef19d298134c16995bd7ebaa160dd85c5cc877132b55e91",
+                "name": "LP Token for SPNG-pTON",
+                "symbol": "SPNG-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/PV8HSTvbVi0W34ytD2-qdgqQqZESyNzORwURYxjV3qI/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NGQ2NjRmNjEwMzQ4ZTc3ZmJlZjE5ZDI5ODEzNGMxNjk5NWJkN2ViYWExNjBkZDg1YzVjYzg3NzEzMmI1NWU5MS5wbmc.webp",
+                "description": "Liquidity pool token for SPONGE and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 4
+        }
+    },
+    {
+        "jettonVolumeStringAll": "1143.343059383",
+        "jettonLiqStringAll": "13512.4873",
+        "jettonFDVStringAll": "24078.76",
+        "jettonSupplyAll": "545763685145136",
+        "jettonVolume": "1.14к",
+        "jettonLiq": "13.5к",
+        "jettonFDV": "24.1к",
+        "jettonPrice": "0.00002",
+        "jettonH24": "-18.72",
+        "jettonCreated": "2024-11-24T12:53:09Z",
+        "jettonAddress": "EQBKjXQTr3f29IILLLh8hmxTgyAa-sPiGZjrXwHSHcRWGt5i",
+        "jettonName": "ELMO / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/VAkXsg4yGoS7OQvKAoek53R2xruMBpU8tjawM17q4ko/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NGE4ZDc0MTNhZjc3ZjZmNDgyMGIyY2I4N2M4NjZjNTM4MzIwMWFmYWMzZTIxOTk4ZWI1ZjAxZDIxZGM0NTYxYS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545763685145136",
+            "admin": {
+                "address": "0:f1fbe8d453d3d4b4796d3d8657ef0773222d123d8dca67c9ef3acd2266f40977",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:4a8d7413af77f6f4820b2cb87c866c5383201afac3e21998eb5f01d21dc4561a",
+                "name": "LP Token for ELMO-pTON",
+                "symbol": "ELMO-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/VAkXsg4yGoS7OQvKAoek53R2xruMBpU8tjawM17q4ko/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6NGE4ZDc0MTNhZjc3ZjZmNDgyMGIyY2I4N2M4NjZjNTM4MzIwMWFmYWMzZTIxOTk4ZWI1ZjAxZDIxZGM0NTYxYS5wbmc.webp",
+                "description": "Liquidity pool token for Official Elmo token and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "17880.4040336035",
+        "jettonLiqStringAll": "61701.3803",
+        "jettonFDVStringAll": "661180",
+        "jettonSupplyAll": "338309781",
+        "jettonVolume": "17.9к",
+        "jettonLiq": "61.7к",
+        "jettonFDV": "661к",
+        "jettonPrice": "0.00066",
+        "jettonH24": "-16.44",
+        "jettonCreated": "2024-04-26T11:03:08Z",
+        "jettonAddress": "EQCmmTQPVPkPc-hEP0PBv4VGJZzIQFAgaYiestz6hdQlugu0",
+        "jettonName": "Mittens / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/wFq46MpJ3L3g7Y0jSWzpaR3PgwCp2tMiqQ611Bjv9m0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YTY5OTM0MGY1NGY5MGY3M2U4NDQzZjQzYzFiZjg1NDYyNTljYzg0MDUwMjA2OTg4OWViMmRjZmE4NWQ0MjViYS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "338309781",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:a699340f54f90f73e8443f43c1bf8546259cc840502069889eb2dcfa85d425ba",
+                "name": "LP Token for Mittens-TON",
+                "symbol": "Mittens-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/wFq46MpJ3L3g7Y0jSWzpaR3PgwCp2tMiqQ611Bjv9m0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6YTY5OTM0MGY1NGY5MGY3M2U4NDQzZjQzYzFiZjg1NDYyNTljYzg0MDUwMjA2OTg4OWViMmRjZmE4NWQ0MjViYS5wbmc.webp",
+                "description": "Liquidity pool token for Telegram's Cat and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 7
+        }
+    },
+    {
+        "jettonVolumeStringAll": "6847.876640377",
+        "jettonLiqStringAll": "140558.7861",
+        "jettonFDVStringAll": "2606153",
+        "jettonSupplyAll": "390304963115297",
+        "jettonVolume": "6.85к",
+        "jettonLiq": "141к",
+        "jettonFDV": "2.61м",
+        "jettonPrice": "0.00522",
+        "jettonH24": "-10.53",
+        "jettonCreated": "2024-10-17T09:33:06Z",
+        "jettonAddress": "EQARrm9JxhSOldbj9FE56ZhppINqab6moCFy3ntHcKlu8SlQ",
+        "jettonName": "FTON / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/Q3AfjlDfqYZNzyCl8VRBNupLFdvaLkihvadRdyKdVZQ/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MTFhZTZmNDljNjE0OGU5NWQ2ZTNmNDUxMzllOTk4NjlhNDgzNmE2OWJlYTZhMDIxNzJkZTdiNDc3MGE5NmVmMS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "390304963115297",
+            "admin": {
+                "address": "0:320fb3bc0af55d47c00425cafde9f1c8d627c5ab6d52f1032dd5cce2e487c93f",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:11ae6f49c6148e95d6e3f45139e99869a4836a69bea6a02172de7b4770a96ef1",
+                "name": "LP Token for pTON-FTON",
+                "symbol": "pTON-FTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/Q3AfjlDfqYZNzyCl8VRBNupLFdvaLkihvadRdyKdVZQ/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MTFhZTZmNDljNjE0OGU5NWQ2ZTNmNDUxMzllOTk4NjlhNDgzNmE2OWJlYTZhMDIxNzJkZTdiNDc3MGE5NmVmMS5wbmc.webp",
+                "description": "Liquidity pool token for Proxy TON and Fanton on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 12
+        }
+    },
+    {
+        "jettonVolumeStringAll": "7354.8746187668",
+        "jettonLiqStringAll": "60311.3295",
+        "jettonFDVStringAll": "40837.82",
+        "jettonSupplyAll": "1876166303929371",
+        "jettonVolume": "7.35к",
+        "jettonLiq": "60.3к",
+        "jettonFDV": "40.8к",
+        "jettonPrice": "0.00004",
+        "jettonH24": "32.48",
+        "jettonCreated": "2024-11-24T00:53:10Z",
+        "jettonAddress": "EQDy8CJwTSkYQJmdZrc-J5Rg7zk1rwSky1zmPizsCLHMUYNH",
+        "jettonName": "MILO / TON",
+        "jettonColor": "green",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/0imQXVzzgcGG2_CBNwZdXyae18q8wULOulZODFpaOI0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZjJmMDIyNzA0ZDI5MTg0MDk5OWQ2NmI3M2UyNzk0NjBlZjM5MzVhZjA0YTRjYjVjZTYzZTJjZWMwOGIxY2M1MS5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "1876166303929371",
+            "admin": {
+                "address": "0:f1fbe8d453d3d4b4796d3d8657ef0773222d123d8dca67c9ef3acd2266f40977",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:f2f022704d291840999d66b73e279460ef3935af04a4cb5ce63e2cec08b1cc51",
+                "name": "LP Token for MILO-pTON",
+                "symbol": "MILO-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/0imQXVzzgcGG2_CBNwZdXyae18q8wULOulZODFpaOI0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6ZjJmMDIyNzA0ZDI5MTg0MDk5OWQ2NmI3M2UyNzk0NjBlZjM5MzVhZjA0YTRjYjVjZTYzZTJjZWMwOGIxY2M1MS5wbmc.webp",
+                "description": "Liquidity pool token for Milo The Dog and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "2253.9782255301",
+        "jettonLiqStringAll": "12201.724",
+        "jettonFDVStringAll": "19015.50",
+        "jettonSupplyAll": "545763685151183",
+        "jettonVolume": "2.25к",
+        "jettonLiq": "12.2к",
+        "jettonFDV": "19к",
+        "jettonPrice": "0.00001",
+        "jettonH24": "-9.7",
+        "jettonCreated": "2024-11-09T17:53:15Z",
+        "jettonAddress": "EQAHuPCLsbb2ZWk6byCBAbqXXEVbrmCRletgnmkoe78xrasy",
+        "jettonName": "DEGEN / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/kBBmP5_GmfCAT-oM5UdUuK4vHogqFg-fPE-Mwul6ysI/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MDdiOGYwOGJiMWI2ZjY2NTY5M2E2ZjIwODEwMWJhOTc1YzQ1NWJhZTYwOTE5NWViNjA5ZTY5Mjg3YmJmMzFhZC5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "545763685151183",
+            "admin": {
+                "address": "0:834fd7424f9da975fb0b356d1eeaa3f94f7720abb338520ef6ce419880fd7bb6",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:07b8f08bb1b6f665693a6f208101ba975c455bae609195eb609e69287bbf31ad",
+                "name": "LP Token for DEGEN-pTON",
+                "symbol": "DEGEN-pTON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/kBBmP5_GmfCAT-oM5UdUuK4vHogqFg-fPE-Mwul6ysI/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MDdiOGYwOGJiMWI2ZjY2NTY5M2E2ZjIwODEwMWJhOTc1YzQ1NWJhZTYwOTE5NWViNjA5ZTY5Mjg3YmJmMzFhZC5wbmc.webp",
+                "description": "Liquidity pool token for DEGENIE and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 1
+        }
+    },
+    {
+        "jettonVolumeStringAll": "20114.08753906",
+        "jettonLiqStringAll": "63390.861",
+        "jettonFDVStringAll": "306983",
+        "jettonSupplyAll": "626814552722",
+        "jettonVolume": "20.1к",
+        "jettonLiq": "63.4к",
+        "jettonFDV": "307к",
+        "jettonPrice": "0.00030",
+        "jettonH24": "-8.47",
+        "jettonCreated": "2024-04-26T10:03:19Z",
+        "jettonAddress": "EQB91RhU3K-P2F8Rlkk12hv9zu6A76rBcvm7NOYmDN9f-8sg",
+        "jettonName": "MAN / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/m96g5-6bgDmVpBdG_GYHawnLu59_etm80mfLQBKjXxo/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6N2RkNTE4NTRkY2FmOGZkODVmMTE5NjQ5MzVkYTFiZmRjZWVlODBlZmFhYzE3MmY5YmIzNGU2MjYwY2RmNWZmYi5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "626814552722",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:7dd51854dcaf8fd85f11964935da1bfdceee80efaac172f9bb34e6260cdf5ffb",
+                "name": "LP Token for MAN-TON",
+                "symbol": "MAN-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/m96g5-6bgDmVpBdG_GYHawnLu59_etm80mfLQBKjXxo/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6N2RkNTE4NTRkY2FmOGZkODVmMTE5NjQ5MzVkYTFiZmRjZWVlODBlZmFhYzE3MmY5YmIzNGU2MjYwY2RmNWZmYi5wbmc.webp",
+                "description": "Liquidity pool token for Gentleman and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 13
+        }
+    },
+    {
+        "jettonVolumeStringAll": "2717.0518202552",
+        "jettonLiqStringAll": "169048.7906",
+        "jettonFDVStringAll": "879717",
+        "jettonSupplyAll": "630408560660715",
+        "jettonVolume": "2.72к",
+        "jettonLiq": "169к",
+        "jettonFDV": "880к",
+        "jettonPrice": "0.00000",
+        "jettonH24": "-4.3",
+        "jettonCreated": "2024-03-06T04:33:03Z",
+        "jettonAddress": "EQAX8VVdiemDa-Y0ew2fWebXW-gUA9QzjM4IkEnZ7WbEF8yR",
+        "jettonName": "@BTC25 / TON",
+        "jettonColor": "red",
+        "jettonImage": "https://cache.tonapi.io/imgproxy/SynTTQtb0QZF-3hvWDwdkh35b4d7aT0JZPr6CLuaYos/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MTdmMTU1NWQ4OWU5ODM2YmU2MzQ3YjBkOWY1OWU2ZDc1YmU4MTQwM2Q0MzM4Y2NlMDg5MDQ5ZDllZDY2YzQxNy5wbmc.webp",
+        "resultJetton": {
+            "mintable": true,
+            "total_supply": "630408560660715",
+            "admin": {
+                "address": "0:779dcc815138d9500e449c5291e7f12738c23d575b5310000f6a253bd607384e",
+                "name": "STON.fi Dex",
+                "is_scam": false,
+                "is_wallet": false
+            },
+            "metadata": {
+                "address": "0:17f1555d89e9836be6347b0d9f59e6d75be81403d4338cce089049d9ed66c417",
+                "name": "LP Token for @BTC25-TON",
+                "symbol": "@BTC25-TON LP",
+                "decimals": "9",
+                "image": "https://cache.tonapi.io/imgproxy/SynTTQtb0QZF-3hvWDwdkh35b4d7aT0JZPr6CLuaYos/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tZXRhLnN0b24uZmkvbHAvdjEvaW1nLzA6MTdmMTU1NWQ4OWU5ODM2YmU2MzQ3YjBkOWY1OWU2ZDc1YmU4MTQwM2Q0MzM4Y2NlMDg5MDQ5ZDllZDY2YzQxNy5wbmc.webp",
+                "description": "Liquidity pool token for @BTC25 MEMECOIN TonMiner and Proxy TON on STON.fi DEX"
+            },
+            "verification": "none",
+            "holders_count": 26
+        }
+    }
+]

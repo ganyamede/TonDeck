@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+
+    <title>Token List</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Jersey+15&family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet">    <style>
+
+        body {
+            font-family: 'Pixelify Sans', sans-serif;
+            background-color: #1e1e1e;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: "Pixelify Sans", sans-serif;
+        }
+
+        .container {
+            width: 400px;
+            background-color: #2a2a2a;
+            padding: 20px;
+        }
+
+        .search-bar {
+            display: flex;
+            align-items: center;
+            background-color: #3a3a3a;
+            border-radius: 10px;
+            padding: 5px 10px;
+            margin-bottom: 20px;
+        }
+
+        .search-bar input {
+            border: none;
+            background: none;
+            color: #fff;
+            width: 100%;
+            outline: none;
+            font-size: 16px;
+        }
+
+        .search-bar svg {
+            width: 20px;
+            height: 20px;
+            fill: #fff;
+        }
+
+        .filters {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+
+        .filter {
+            background-color: #3a3a3a;
+            padding: 10px 15px;
+            border-radius: 5px;
+            text-align: center;
+            font-size: 12px;
+            cursor: pointer;
+        }
+
+        .token {
+            display: flex;
+            position: relative;
+            align-items: center;
+            justify-content: space-between;
+            background-color: #3a3a3a;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 10px;
+            height: 50px;
+            overflow: hidden;
+        }
+
+        .token .info {
+            display: flex;
+            align-items: center;
+        }
+
+        .token img {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            margin-right: 10px;
+        }
+
+        .token .details {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .token .details .name {
+            font-size: 14px;
+            font-weight: bold;
+        }
+
+        .token .details .price {
+            font-size: 12px;
+            color: #4caf50;
+        }
+
+        .token .stats {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            text-align: right;
+            font-size: 12px;
+        }
+
+        #noResultsMessage button {
+        background-color: #007BFF; /* Основной цвет */
+        color: white; /* Цвет текста */
+        font-size: 14px;
+        padding: 12px 24px; /* Отступы */
+        border: none;
+        border-radius: 8px; /* Скругленные углы */
+        cursor: pointer;
+        transition: background-color 0.3s ease, transform 0.2s ease; /* Плавные переходы */
+    }
+
+    /* При наведении на кнопку */
+    #noResultsMessage button:hover {
+        background-color: #0056b3; /* Цвет при наведении */
+        transform: translateY(-3px); /* Легкий подъем кнопки */
+    }
+
+    /* При нажатии на кнопку */
+    #noResultsMessage button:active {
+        background-color: #004085; /* Темный цвет при нажатии */
+        transform: translateY(0); /* Возврат к нормальному состоянию */
+    }
+
+    /* Стили для блока с кнопкой */
+    #noResultsMessage {
+        text-align: center;
+        padding: 20px;
+        font-family: Arial, sans-serif;
+    }
+
+    /* Текст для кнопки */
+    #noResultsMessage p {
+        font-size: 16px;
+        margin-bottom: 10px;
+        color: #333; /* Цвет текста */
+    }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="search-bar">
+            <input type="text" id="searchInput" placeholder="Search" onkeyup="filterTokens()">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                <path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zM9.5 14C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+            </svg>
+        </div>
+
+        <div class="filters">
+            <a href="/getPage/sort=jettonSupplyAll" style="text-decoration: none; color: white"><div class="filter">SUPPLY</div></a>
+            <a href="/getPage/sort=jettonLiqStringAll" style="text-decoration: none; color: white"><div class="filter">LIQ</div></a>
+            <a href="/getPage/sort=jettonFDVStringAll" style="text-decoration: none; color: white"><div class="filter">FDV</div></a>
+            <a href="/getPage/sort=jettonVolumeStringAll" style="text-decoration: none; color: white"><div class="filter">VOL</div></a>
+            <a href="/getPage/sort=jettonPrice" style="text-decoration: none; color: white"><div class="filter">PRICE</div></a>
+        </div>
+
+        <!-- Кнопка, которая будет скрыта по умолчанию -->
+        <div id="noResultsMessage" style="display:none;">
+            <p style="color: white">Nothing found?</p>
+            <a id="redirectLink" target="_blank">
+                <button>Go to TONDeck</button>
+            </a>
+        </div>
+
+        {% for jetton in data %}
+            <a href="/JettonView/{{ jetton.jettonAddress }}" style="text-decoration: none;    color: white">
+                <div class="token" id="{{ jetton.jettonAddress }}">
+                    <div class="info">
+                        <img src="{{ jetton.jettonImage }}" alt="Token">
+                        <div class="details">
+                            <div class="name">{{ jetton.jettonName }}</div>
+                            <div class="price" style="color: {{ jetton.jettonColor }}">{{ jetton.jettonPrice }} | +{{ jetton.jettonH24 }}%</div>
+                        </div>
+                    </div>
+                    <div class="stats">
+                        <div>FDV: {{ jetton.jettonFDV }}</div>
+                        <div>LIQ: {{ jetton.jettonLiq }}</div>
+                        <div>VOL: {{ jetton.jettonVolume }}</div>
+                    </div>
+                </div>
+            </a>
+        {% endfor %}
+    </div>
+
+
+    <script>
+        window.Telegram.WebApp.ready();
+        window.Telegram.WebApp.expand();
+
+        function filterTokens() {
+            const searchInput = document.getElementById('searchInput').value.toLowerCase();
+            const tokens = document.querySelectorAll('.token');
+            let found = false; // Переменная для отслеживания наличия результатов
+
+            tokens.forEach(token => {
+                const tokenId = token.id.toLowerCase();
+                const tokenName = token.querySelector('.name').textContent.toLowerCase();
+
+                // Если найдено совпадение, показываем токен
+                if (tokenId.includes(searchInput) || tokenName.includes(searchInput)) {
+                    token.style.display = 'block';
+                    found = true;
+                } else {
+                    token.style.display = 'none';
+                }
+            });
+
+            // Если нет результатов, показываем сообщение и кнопку
+            if (!found) {
+                if (searchInput.length == 48) {
+                    const link = `/jettonView/`+document.getElementById('searchInput').value+'/'
+                    document.getElementById('redirectLink').href = link;
+                    document.getElementById('noResultsMessage').style.display = 'block';
+                }
+            } else {
+                document.getElementById('noResultsMessage').style.display = 'none';
+            }
+        }
+    </script>
+
+</body>
+</html>

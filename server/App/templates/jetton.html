@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Jersey+15&family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet">
+
+
+    <style>
+      body {
+        height: 65vh;
+        font-family: 'Pixelify Sans', sans-serif;
+        background-color: #1e1e1e;
+        color: #fff;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: "Pixelify Sans", sans-serif;
+      }
+
+    </style>
+</head>
+<body>
+    <div style="padding-top: 10px">
+      <div>
+        <a href="/getPage/" style="color: white; text-decoration: none"><i class="fas fa-arrow-left"></i></a>
+      </div>
+      <div align="center">
+        <img src="{{data.jettonImage}}" height="128">
+        <br><span style="font-size: 24px">{{ data.jettonName}}</span><br>
+        <span style="color: {{data.jettonColor}}">${{data.jettonPrice}} | {{data.jettonH24}}%</span>
+      </div>
+
+      <div style="padding-top: 15px" align="center">
+        <div style="background-color: #242323; width: 390px; height: 80px;  border-radius: 10px;padding-bottom: 20px">
+          <div style="padding-left: 15px; padding-top: 1px; float:left">
+            <div onclick="copyText()">
+              <p>Address:  {{data.jettonAddressString}} <i class="fas fa-copy" style="margin-left: 8px"></i></p>
+            </div>
+            <div style="display: flex">
+              <a href="https://app.ston.fi/swap?chartVisible=false&ft=TON&tt={{data.jettonAddress}}" style="text-decoration: none; color: white">
+                <button style='width: 90px; height: 35px; border-radius: 10px; background-color: #2787F0; border:none;font-family: "Pixelify Sans", sans-serif; color:white; font-size: 16px'>StonFi</button>
+              </a>
+              <div style="margin-left: 20px"></div>
+              <a href="https://dedust.io/swap/USDT/{{data.jettonAddress}}/" style="text-decoration: none; color: white">
+                <button style='width: 90px; height: 35px; border-radius: 10px; background-color: #FFAA00; border:none; font-family: "Pixelify Sans", sans-serif; color:white; font-size: 16px'>Dedust</button>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div style="margin-top: 15px; background-color: #242323; width: 350px; border-radius: 10px; padding: 20px;">
+          <div style="display: flex; justify-content: space-between; align-items: center; text-align: center; margin-bottom: 20px;">
+            <div>
+              <h4 style="margin: 0;">24H VOL<br>{{data.jettonVolume}}$</h4>
+            </div>
+            <div>
+              <h4 style="margin: 0;">LIQUIDITY<br>{{data.jettonLiq}}$</h4>
+            </div>
+            <div>
+              <h4 style="margin: 0;">HOLDERS<br>{{data.jettonLiq}}</h4>
+            </div>
+          </div>
+          <div style="display: flex; justify-content: space-between; align-items: center; text-align: center;">
+            <div>
+              <h4 style="margin: 0;">AGE<br>{{data.jettonCreated}} days ago</h4>
+            </div>
+            <div>
+              <h4 style="margin: 0; margin-left: -70px">SCAM<br><span style="color: red;">{{data.jettonIsScam}}</span></h4>
+            </div>
+            <div>
+              <h4 style="margin: 0; margin-left: -30px">FDV<br>{{data.jettonFDV}}$</h4>
+            </div>
+          </div>
+        </div>
+
+        <div style="margin-top: 15px; background-color: #242323; width: 390px; border-radius: 10px;">
+          <div style="display: flex; justify-content: space-between; margin-left: 20px; margin-right: 20px">
+            <h4>5M<br><span style="color: {{data.jettonStaticColor.m5}}">{{data.jettonStatic.m5}}%</span></h4>
+            <h4>1H<br><span style="color: {{data.jettonStaticColor.h1}}">{{data.jettonStatic.h1}}%</span></h4>
+            <h4>6H<br><span style="color: {{data.jettonStaticColor.h6}}">{{data.jettonStatic.h6}}%</span></h4>
+            <h4>24H<br><span style="color: {{data.jettonStaticColor.h24}}">{{data.jettonH24}}%</span></h4>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <script>
+    function copyText() {
+
+      const text = '{{data.jettonAddress}}'
+      navigator.clipboard.writeText(text).then(function () {
+        alert("Address copy");
+      }).catch(function (error) {
+        // pass
+      });
+    }
+  </script>
+</body>
+</html>
